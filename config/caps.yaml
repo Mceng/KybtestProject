@@ -1,0 +1,24 @@
+platformName: Android
+#模拟器
+platformVersion:
+  - 6.0.1
+deviceName: Mi
+
+udid:
+  - 127.0.0.1:7555
+  #- 192.168.22.102:5555
+
+# mi4A真机
+# platformVersion: 6.0.1
+# deviceName: MI4A
+# udid: 2160fccb7d73
+
+appname: C:\Users\Mcen\学习\python\Text_Python\KybtestProject\app\kaoyan3.1.0.apk
+noReset: False
+unicodeKeyboard: True
+resetKeyboard: True
+automationName: uiautomator2
+appPackage: com.tal.kaoyan
+appActivity: com.tal.kaoyan.ui.activity.SplashActivity
+ip: 127.0.0.1
+port: 4723

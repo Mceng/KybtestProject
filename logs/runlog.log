@@ -1,0 +1,1684 @@
+2018-08-27 11:12:56,122 appium_desired.py[line:32] INFO start app...
+2018-08-27 11:13:53,647 appium_desired.py[line:32] INFO start app...
+2018-08-27 11:29:27,198 appium_desired.py[line:31] INFO start app...
+2018-08-27 21:30:09,578 appium_desired.py[line:31] INFO start app...
+2018-08-27 21:31:26,276 appium_desired.py[line:31] INFO start app...
+2018-08-27 21:31:33,743 common_fun.py[line:20] INFO ==========check_启动页取消=========
+2018-08-27 21:49:01,815 appium_desired.py[line:31] INFO start app...
+2018-08-27 21:49:23,656 appium_desired.py[line:31] INFO start app...
+2018-08-27 21:49:32,538 common_fun.py[line:21] INFO ==========check_启动页取消=========
+2018-08-27 21:49:34,424 common_fun.py[line:28] INFO 点击启动页取消按钮
+2018-08-27 21:49:51,505 appium_desired.py[line:31] INFO start app...
+2018-08-27 21:50:01,550 common_fun.py[line:21] INFO ==========check_启动页取消=========
+2018-08-27 21:50:02,960 common_fun.py[line:28] INFO 点击启动页取消按钮
+2018-08-27 21:50:02,960 common_fun.py[line:48] INFO 准备向左滑动
+2018-08-27 21:53:30,681 appium_desired.py[line:31] INFO start app...
+2018-08-27 21:53:38,056 common_fun.py[line:21] INFO ==========check_启动页取消=========
+2018-08-27 21:53:40,017 common_fun.py[line:28] INFO 点击启动页取消按钮
+2018-08-27 21:53:40,017 common_fun.py[line:48] INFO 准备向左滑动
+2018-08-27 21:54:18,909 appium_desired.py[line:31] INFO start app...
+2018-08-27 21:54:28,322 common_fun.py[line:21] INFO ==========check_启动页取消=========
+2018-08-27 21:54:29,950 common_fun.py[line:28] INFO 点击启动页取消按钮
+2018-08-27 21:54:29,951 common_fun.py[line:48] INFO 准备向左滑动
+2018-08-27 21:56:22,866 appium_desired.py[line:31] INFO start app...
+2018-08-27 21:56:30,689 common_fun.py[line:21] INFO ==========check_启动页取消=========
+2018-08-27 21:56:32,246 common_fun.py[line:28] INFO 点击启动页取消按钮
+2018-08-27 21:56:32,247 common_fun.py[line:48] INFO 准备向左滑动
+2018-08-27 21:56:32,989 common_fun.py[line:48] INFO 准备向左滑动
+2018-08-27 21:57:20,972 appium_desired.py[line:31] INFO start app...
+2018-08-27 21:57:30,423 common_fun.py[line:21] INFO ==========check_启动页取消=========
+2018-08-27 21:57:31,563 common_fun.py[line:28] INFO 点击启动页取消按钮
+2018-08-27 21:57:31,564 common_fun.py[line:48] INFO 准备向左滑动
+2018-08-27 21:57:32,297 common_fun.py[line:48] INFO 准备向左滑动
+2018-08-27 21:58:53,571 appium_desired.py[line:31] INFO start app...
+2018-08-27 21:59:01,210 common_fun.py[line:21] INFO ==========check_启动页取消=========
+2018-08-27 21:59:02,925 common_fun.py[line:28] INFO 点击启动页取消按钮
+2018-08-27 21:59:02,925 common_fun.py[line:48] INFO 准备向左滑动
+2018-08-27 21:59:03,587 common_fun.py[line:48] INFO 准备向左滑动
+2018-08-27 21:59:44,991 appium_desired.py[line:31] INFO start app...
+2018-08-27 21:59:54,099 common_fun.py[line:21] INFO ==========check_启动页取消=========
+2018-08-27 21:59:55,348 common_fun.py[line:28] INFO 点击启动页取消按钮
+2018-08-27 21:59:56,451 common_fun.py[line:38] INFO 点击跳过按钮
+2018-08-27 21:59:56,452 common_fun.py[line:48] INFO 准备向左滑动
+2018-08-27 21:59:57,294 common_fun.py[line:48] INFO 准备向左滑动
+2018-08-27 22:04:23,291 appium_desired.py[line:31] INFO start app...
+2018-08-27 22:04:31,172 common_fun.py[line:22] INFO ==========check_启动页取消=========
+2018-08-27 22:04:32,748 common_fun.py[line:29] INFO 点击启动页取消按钮
+2018-08-27 22:04:33,907 common_fun.py[line:39] INFO 点击跳过按钮
+2018-08-27 22:04:33,908 common_fun.py[line:49] INFO 准备向左滑动
+2018-08-27 22:04:34,680 common_fun.py[line:49] INFO 准备向左滑动
+2018-08-27 22:11:07,070 appium_desired.py[line:31] INFO start app...
+2018-08-27 22:11:14,902 common_fun.py[line:22] INFO ==========check_启动页取消=========
+2018-08-27 22:11:16,844 common_fun.py[line:29] INFO 点击启动页取消按钮
+2018-08-27 22:11:16,844 common_fun.py[line:49] INFO 准备向左滑动
+2018-08-27 22:11:17,623 common_fun.py[line:49] INFO 准备向左滑动
+2018-08-27 22:11:19,366 common_fun.py[line:65] INFO 点击立即体验按钮
+2018-08-27 22:12:02,893 appium_desired.py[line:31] INFO start app...
+2018-08-27 22:12:12,235 common_fun.py[line:22] INFO ==========check_启动页取消=========
+2018-08-27 22:12:13,808 common_fun.py[line:29] INFO 点击启动页取消按钮
+2018-08-27 22:12:13,808 common_fun.py[line:49] INFO 准备向左滑动
+2018-08-27 22:12:14,470 common_fun.py[line:49] INFO 准备向左滑动
+2018-08-27 22:12:16,237 common_fun.py[line:65] INFO 点击立即体验按钮
+2018-08-27 22:13:08,207 appium_desired.py[line:31] INFO start app...
+2018-08-27 22:13:17,506 common_fun.py[line:22] INFO ==========check_启动页取消=========
+2018-08-27 22:13:18,647 common_fun.py[line:29] INFO 点击启动页取消按钮
+2018-08-27 22:13:18,647 common_fun.py[line:49] INFO 准备向左滑动
+2018-08-27 22:13:19,284 common_fun.py[line:49] INFO 准备向左滑动
+2018-08-27 22:13:21,404 common_fun.py[line:65] INFO 点击立即体验按钮
+2018-08-27 22:24:01,612 appium_desired.py[line:31] INFO start app...
+2018-08-27 22:24:09,132 common_fun.py[line:22] INFO ==========check_启动页取消=========
+2018-08-27 22:24:10,494 common_fun.py[line:29] INFO 点击启动页取消按钮
+2018-08-27 22:25:09,182 appium_desired.py[line:31] INFO start app...
+2018-08-27 22:25:17,406 common_fun.py[line:22] INFO ==========check_启动页取消=========
+2018-08-27 22:25:19,015 common_fun.py[line:29] INFO 点击启动页取消按钮
+2018-08-27 22:25:47,532 appium_desired.py[line:31] INFO start app...
+2018-08-27 22:25:56,782 common_fun.py[line:22] INFO ==========check_启动页取消=========
+2018-08-27 22:25:57,984 common_fun.py[line:29] INFO 点击启动页取消按钮
+2018-08-27 22:26:15,717 appium_desired.py[line:31] INFO start app...
+2018-08-27 22:26:24,832 common_fun.py[line:22] INFO ==========check_启动页取消=========
+2018-08-27 22:26:26,917 common_fun.py[line:29] INFO 点击启动页取消按钮
+2018-08-27 22:26:26,918 BaseView.py[line:19] INFO get screenshot:C:\Users\Mcen\学习\python\Text_Python\text_text\kyb_project/screenshots/20180827222626_点击启动页取消按钮.png 
+2018-08-27 22:26:27,826 common_fun.py[line:50] INFO 准备向左滑动
+2018-08-27 22:26:28,385 common_fun.py[line:50] INFO 准备向左滑动
+2018-08-27 22:26:30,291 common_fun.py[line:66] INFO 点击立即体验按钮
+2018-08-27 22:59:21,028 appium_desired.py[line:31] INFO start app...
+2018-08-27 22:59:58,942 appium_desired.py[line:31] INFO start app...
+2018-08-27 23:02:59,764 appium_desired.py[line:31] INFO start app...
+2018-08-27 23:03:09,310 common_fun.py[line:22] INFO ==========check_启动页取消=========
+2018-08-27 23:03:18,214 common_fun.py[line:29] INFO 点击启动页取消按钮
+2018-08-27 23:03:19,178 common_fun.py[line:39] INFO 点击跳过按钮
+2018-08-27 23:03:19,178 LoginView.py[line:17] INFO ============login_action==============
+2018-08-27 23:03:19,178 LoginView.py[line:18] INFO username is:自学网2018
+2018-08-27 23:03:24,911 LoginView.py[line:20] INFO password is:zxw2018
+2018-08-27 23:03:30,326 LoginView.py[line:22] INFO click loginBtn
+2018-08-27 23:03:31,169 LoginView.py[line:24] INFO login finished!
+2018-08-27 23:36:33,475 appium_desired.py[line:31] INFO start app...
+2018-08-27 23:38:06,512 appium_desired.py[line:31] INFO start app...
+2018-08-27 23:38:13,377 common_fun.py[line:22] INFO ==========check_启动页取消=========
+2018-08-27 23:38:23,431 common_fun.py[line:26] INFO 没有启动页取消按钮
+2018-08-27 23:38:33,682 common_fun.py[line:36] INFO 不存在跳过按钮
+2018-08-27 23:38:33,689 LoginView.py[line:19] INFO ============login_action==============
+2018-08-27 23:38:33,690 LoginView.py[line:20] INFO username is:自学网2018
+2018-08-27 23:43:45,333 appium_desired.py[line:31] INFO start app...
+2018-08-27 23:43:55,297 common_fun.py[line:22] INFO ==========check_启动页取消=========
+2018-08-27 23:43:56,816 common_fun.py[line:29] INFO 点击启动页取消按钮
+2018-08-27 23:43:58,365 common_fun.py[line:39] INFO 点击跳过按钮
+2018-08-27 23:43:58,365 LoginView.py[line:19] INFO ============login_action==============
+2018-08-27 23:43:58,366 LoginView.py[line:20] INFO username is:自学网2018
+2018-08-27 23:44:04,129 LoginView.py[line:22] INFO password is:zxw2018
+2018-08-27 23:44:09,452 LoginView.py[line:24] INFO click loginBtn
+2018-08-27 23:44:10,174 LoginView.py[line:26] INFO login finished!
+2018-08-27 23:44:38,701 appium_desired.py[line:31] INFO start app...
+2018-08-27 23:44:48,053 common_fun.py[line:22] INFO ==========check_启动页取消=========
+2018-08-27 23:44:49,196 common_fun.py[line:29] INFO 点击启动页取消按钮
+2018-08-27 23:44:50,776 common_fun.py[line:39] INFO 点击跳过按钮
+2018-08-27 23:44:50,777 LoginView.py[line:19] INFO ============login_action==============
+2018-08-27 23:44:50,777 LoginView.py[line:20] INFO username is:自学网2018
+2018-08-27 23:44:56,612 LoginView.py[line:22] INFO password is:zxw2018
+2018-08-27 23:45:01,923 LoginView.py[line:24] INFO click loginBtn
+2018-08-27 23:45:02,681 LoginView.py[line:26] INFO login finished!
+2018-08-27 23:45:02,682 LoginView.py[line:45] INFO =====check_弹窗提示下线commit=====
+2018-08-27 23:45:04,774 LoginView.py[line:50] INFO =====click_commit=====
+2018-08-28 09:35:35,489 appium_desired.py[line:31] INFO start app...
+2018-08-28 09:35:54,287 common_fun.py[line:22] INFO ==========check_启动页取消=========
+2018-08-28 09:35:56,531 common_fun.py[line:29] INFO 点击启动页取消按钮
+2018-08-28 09:35:58,212 common_fun.py[line:39] INFO 点击跳过按钮
+2018-08-28 09:35:58,212 LoginView.py[line:20] INFO ============login_action==============
+2018-08-28 09:35:58,212 LoginView.py[line:21] INFO username is:自学网2018
+2018-08-28 09:36:04,789 LoginView.py[line:23] INFO password is:zxw2018
+2018-08-28 09:36:10,340 LoginView.py[line:25] INFO click loginBtn
+2018-08-28 09:36:11,058 LoginView.py[line:27] INFO login finished!
+2018-08-28 09:36:11,058 LoginView.py[line:46] INFO =====check_弹窗提示下线commit=====
+2018-08-28 09:37:36,882 appium_desired.py[line:31] INFO start app...
+2018-08-28 09:37:53,557 common_fun.py[line:22] INFO ==========check_启动页取消=========
+2018-08-28 09:37:55,049 common_fun.py[line:29] INFO 点击启动页取消按钮
+2018-08-28 09:37:56,505 common_fun.py[line:39] INFO 点击跳过按钮
+2018-08-28 09:37:56,505 LoginView.py[line:20] INFO ============login_action==============
+2018-08-28 09:37:56,506 LoginView.py[line:21] INFO username is:自学网2018
+2018-08-28 09:38:03,184 LoginView.py[line:23] INFO password is:zxw2018
+2018-08-28 09:38:09,557 LoginView.py[line:25] INFO click loginBtn
+2018-08-28 09:38:10,306 LoginView.py[line:27] INFO login finished!
+2018-08-28 10:14:22,789 appium_desired.py[line:31] INFO start app...
+2018-08-28 10:15:08,360 common_fun.py[line:22] INFO ==========check_启动页取消=========
+2018-08-28 10:15:11,241 common_fun.py[line:29] INFO 点击启动页取消按钮
+2018-08-28 10:15:12,667 common_fun.py[line:39] INFO 点击跳过按钮
+2018-08-28 10:15:12,667 LoginView.py[line:20] INFO ============login_action==============
+2018-08-28 10:15:12,667 LoginView.py[line:21] INFO username is:自学网2018
+2018-08-28 10:15:18,790 LoginView.py[line:23] INFO password is:zxw2018
+2018-08-28 10:15:25,101 LoginView.py[line:25] INFO click loginBtn
+2018-08-28 10:15:25,735 LoginView.py[line:27] INFO login finished!
+2018-08-28 10:43:14,143 appium_desired.py[line:31] INFO start app...
+2018-08-28 10:43:32,047 common_fun.py[line:22] INFO ==========check_启动页取消=========
+2018-08-28 10:43:34,105 common_fun.py[line:29] INFO 点击启动页取消按钮
+2018-08-28 10:43:36,078 common_fun.py[line:39] INFO 点击跳过按钮
+2018-08-28 10:43:36,079 LoginView.py[line:20] INFO ============login_action==============
+2018-08-28 10:43:36,080 LoginView.py[line:21] INFO username is:自学网2018
+2018-08-28 10:43:42,035 LoginView.py[line:23] INFO password is:zxw2018
+2018-08-28 10:43:48,469 LoginView.py[line:25] INFO click loginBtn
+2018-08-28 10:43:51,443 LoginView.py[line:27] INFO login finished!
+2018-08-28 10:43:51,444 LoginView.py[line:30] INFO ====check_是否登陆成功======
+2018-08-28 10:43:51,445 LoginView.py[line:35] ERROR login Fail!
+2018-08-28 10:43:51,445 BaseView.py[line:19] INFO get screenshot:C:\Users\Mcen\学习\python\Text_Python\text_text\kyb_project/screenshots/20180828104351_login fail.png 
+2018-08-28 10:48:33,129 appium_desired.py[line:31] INFO start app...
+2018-08-28 10:48:47,849 common_fun.py[line:22] INFO ==========check_启动页取消=========
+2018-08-28 10:48:49,754 common_fun.py[line:29] INFO 点击启动页取消按钮
+2018-08-28 10:48:51,230 common_fun.py[line:39] INFO 点击跳过按钮
+2018-08-28 10:48:51,231 LoginView.py[line:20] INFO ============login_action==============
+2018-08-28 10:48:51,232 LoginView.py[line:21] INFO username is:自学网2018
+2018-08-28 10:48:57,524 LoginView.py[line:23] INFO password is:zxw2018
+2018-08-28 10:49:03,084 LoginView.py[line:25] INFO click loginBtn
+2018-08-28 10:49:04,252 LoginView.py[line:27] INFO login finished!
+2018-08-28 10:55:20,525 appium_desired.py[line:31] INFO start app...
+2018-08-28 10:55:35,406 common_fun.py[line:22] INFO ==========check_启动页取消=========
+2018-08-28 10:55:37,014 common_fun.py[line:29] INFO 点击启动页取消按钮
+2018-08-28 10:55:38,572 common_fun.py[line:39] INFO 点击跳过按钮
+2018-08-28 10:55:38,572 LoginView.py[line:20] INFO ============login_action==============
+2018-08-28 10:55:38,572 LoginView.py[line:21] INFO username is:自学网2018
+2018-08-28 10:55:45,114 LoginView.py[line:23] INFO password is:zxw2018
+2018-08-28 10:55:50,753 LoginView.py[line:25] INFO click loginBtn
+2018-08-28 10:55:51,538 LoginView.py[line:27] INFO login finished!
+2018-08-28 10:55:54,692 appium_desired.py[line:31] INFO start app...
+2018-08-28 10:56:11,562 common_fun.py[line:22] INFO ==========check_启动页取消=========
+2018-08-28 10:56:13,466 common_fun.py[line:29] INFO 点击启动页取消按钮
+2018-08-28 10:56:15,097 common_fun.py[line:39] INFO 点击跳过按钮
+2018-08-28 10:56:15,097 LoginView.py[line:20] INFO ============login_action==============
+2018-08-28 10:56:15,097 LoginView.py[line:21] INFO username is:自学网2018
+2018-08-28 10:56:21,909 LoginView.py[line:23] INFO password is:zxw2018
+2018-08-28 10:56:27,778 LoginView.py[line:25] INFO click loginBtn
+2018-08-28 10:56:28,493 LoginView.py[line:27] INFO login finished!
+2018-08-28 10:56:28,514 LoginView.py[line:31] INFO ====check_是否登陆成功======
+2018-08-28 10:56:28,514 LoginView.py[line:36] ERROR login Fail!
+2018-08-28 10:56:28,515 BaseView.py[line:20] INFO get screenshot:C:\Users\Mcen\学习\python\Text_Python\text_text\kyb_project/screenshots/20180828105628_login fail.png 
+2018-08-28 10:56:34,171 appium_desired.py[line:31] INFO start app...
+2018-08-28 10:56:50,736 common_fun.py[line:22] INFO ==========check_启动页取消=========
+2018-08-28 10:56:52,346 common_fun.py[line:29] INFO 点击启动页取消按钮
+2018-08-28 10:56:54,242 common_fun.py[line:39] INFO 点击跳过按钮
+2018-08-28 10:56:54,242 LoginView.py[line:20] INFO ============login_action==============
+2018-08-28 10:56:54,243 LoginView.py[line:21] INFO username is:自学网2018
+2018-08-28 10:57:00,801 LoginView.py[line:23] INFO password is:zxw2018
+2018-08-28 10:57:06,813 LoginView.py[line:25] INFO click loginBtn
+2018-08-28 10:57:07,567 LoginView.py[line:27] INFO login finished!
+2018-08-28 10:57:07,592 LoginView.py[line:33] INFO ====check_是否登陆成功======
+2018-08-28 10:57:07,594 LoginView.py[line:38] ERROR login Fail!
+2018-08-28 10:57:07,594 BaseView.py[line:20] INFO get screenshot:C:\Users\Mcen\学习\python\Text_Python\text_text\kyb_project/screenshots/20180828105707_login fail.png 
+2018-08-28 11:16:25,520 appium_desired.py[line:31] INFO start app...
+2018-08-28 11:16:40,436 common_fun.py[line:22] INFO ==========check_启动页取消=========
+2018-08-28 11:16:42,055 common_fun.py[line:29] INFO 点击启动页取消按钮
+2018-08-28 11:16:43,596 common_fun.py[line:39] INFO 点击跳过按钮
+2018-08-28 11:16:43,596 LoginView.py[line:20] INFO ============login_action==============
+2018-08-28 11:16:43,597 LoginView.py[line:21] INFO username is:自学网2018
+2018-08-28 11:16:50,033 LoginView.py[line:23] INFO password is:zxw2018
+2018-08-28 11:16:55,865 LoginView.py[line:25] INFO click loginBtn
+2018-08-28 11:16:56,560 LoginView.py[line:27] INFO login finished!
+2018-08-28 11:16:56,561 LoginView.py[line:31] INFO ====check_是否登陆成功======
+2018-08-28 11:16:56,561 LoginView.py[line:36] ERROR login Fail!
+2018-08-28 11:16:56,561 BaseView.py[line:20] INFO get screenshot:C:\Users\Mcen\学习\python\Text_Python\text_text\kyb_project/screenshots/20180828111656_login fail.png 
+2018-08-28 11:17:40,135 appium_desired.py[line:31] INFO start app...
+2018-08-28 11:17:55,906 common_fun.py[line:22] INFO ==========check_启动页取消=========
+2018-08-28 11:17:58,410 common_fun.py[line:29] INFO 点击启动页取消按钮
+2018-08-28 11:18:00,053 common_fun.py[line:39] INFO 点击跳过按钮
+2018-08-28 11:18:00,053 LoginView.py[line:20] INFO ============login_action==============
+2018-08-28 11:18:00,054 LoginView.py[line:21] INFO username is:自学网2018
+2018-08-28 11:18:07,147 LoginView.py[line:23] INFO password is:zxw2018
+2018-08-28 11:18:13,113 LoginView.py[line:25] INFO click loginBtn
+2018-08-28 11:18:13,841 LoginView.py[line:27] INFO login finished!
+2018-08-28 11:18:13,841 LoginView.py[line:31] INFO ====check_是否登陆成功======
+2018-08-28 11:18:18,841 LoginView.py[line:37] ERROR login Fail!
+2018-08-28 11:18:18,842 BaseView.py[line:20] INFO get screenshot:C:\Users\Mcen\学习\python\Text_Python\text_text\kyb_project/screenshots/20180828111818_login fail.png 
+2018-08-28 11:27:10,016 appium_desired.py[line:31] INFO start app...
+2018-08-28 11:27:24,406 common_fun.py[line:22] INFO ==========check_启动页取消=========
+2018-08-28 11:27:26,107 common_fun.py[line:29] INFO 点击启动页取消按钮
+2018-08-28 11:27:27,991 common_fun.py[line:39] INFO 点击跳过按钮
+2018-08-28 11:27:27,991 LoginView.py[line:22] INFO ============login_action==============
+2018-08-28 11:27:27,991 LoginView.py[line:23] INFO username is:自学网2018
+2018-08-28 11:27:34,303 LoginView.py[line:25] INFO password is:zxw2018
+2018-08-28 11:27:40,633 LoginView.py[line:27] INFO click loginBtn
+2018-08-28 11:27:41,492 LoginView.py[line:29] INFO login finished!
+2018-08-28 11:27:41,493 LoginView.py[line:33] INFO ====check_是否登陆成功======
+2018-08-28 11:27:46,493 LoginView.py[line:64] INFO =====check_弹窗提示下线commit=====
+2018-08-28 11:27:57,108 LoginView.py[line:67] INFO =====No弹窗提示下线弹窗=====
+2018-08-28 11:27:57,108 LoginView.py[line:52] INFO ====check_我知道了(no_task)====
+2018-08-28 11:27:57,252 LoginView.py[line:58] INFO ====click_我知道了(no_task)====
+2018-08-28 11:28:00,837 LoginView.py[line:41] ERROR login Fail!
+2018-08-28 11:28:00,838 BaseView.py[line:20] INFO get screenshot:C:\Users\Mcen\学习\python\Text_Python\text_text\kyb_project/screenshots/20180828112800_login fail.png 
+2018-08-28 11:32:32,144 appium_desired.py[line:31] INFO start app...
+2018-08-28 11:32:46,823 common_fun.py[line:22] INFO ==========check_启动页取消=========
+2018-08-28 11:32:48,025 common_fun.py[line:29] INFO 点击启动页取消按钮
+2018-08-28 11:32:49,692 common_fun.py[line:39] INFO 点击跳过按钮
+2018-08-28 11:32:49,693 LoginView.py[line:23] INFO ============login_action==============
+2018-08-28 11:32:49,694 LoginView.py[line:24] INFO username is:自学网2018
+2018-08-28 11:32:56,418 LoginView.py[line:26] INFO password is:zxw2018
+2018-08-28 11:33:02,591 LoginView.py[line:28] INFO click loginBtn
+2018-08-28 11:33:03,340 LoginView.py[line:30] INFO login finished!
+2018-08-28 11:33:03,340 LoginView.py[line:34] INFO ====check_是否登陆成功======
+2018-08-28 11:33:08,341 LoginView.py[line:65] INFO =====check_弹窗提示下线commit=====
+2018-08-28 11:33:08,384 LoginView.py[line:70] INFO =====click_commit=====
+2018-08-28 11:33:08,897 LoginView.py[line:53] INFO ====check_我知道了(no_task)====
+2018-08-28 11:33:09,557 LoginView.py[line:59] INFO ====click_我知道了(no_task)====
+2018-08-28 11:33:14,458 LoginView.py[line:46] INFO login success!
+2018-08-28 11:33:14,459 LoginView.py[line:74] INFO =====logout_action======
+2018-08-28 11:33:46,214 appium_desired.py[line:31] INFO start app...
+2018-08-28 11:34:03,285 common_fun.py[line:22] INFO ==========check_启动页取消=========
+2018-08-28 11:34:05,474 common_fun.py[line:29] INFO 点击启动页取消按钮
+2018-08-28 11:34:07,095 common_fun.py[line:39] INFO 点击跳过按钮
+2018-08-28 11:34:07,096 LoginView.py[line:23] INFO ============login_action==============
+2018-08-28 11:34:07,096 LoginView.py[line:24] INFO username is:mmoo1234
+2018-08-28 11:34:14,018 LoginView.py[line:26] INFO password is:q123456
+2018-08-28 11:34:19,503 LoginView.py[line:28] INFO click loginBtn
+2018-08-28 11:34:20,352 LoginView.py[line:30] INFO login finished!
+2018-08-28 11:34:20,352 LoginView.py[line:34] INFO ====check_是否登陆成功======
+2018-08-28 11:34:25,354 LoginView.py[line:65] INFO =====check_弹窗提示下线commit=====
+2018-08-28 11:34:36,411 LoginView.py[line:68] INFO =====No弹窗提示下线弹窗=====
+2018-08-28 11:34:36,411 LoginView.py[line:53] INFO ====check_我知道了(no_task)====
+2018-08-28 11:34:36,580 LoginView.py[line:59] INFO ====click_我知道了(no_task)====
+2018-08-28 11:34:41,249 LoginView.py[line:46] INFO login success!
+2018-08-28 11:34:41,249 LoginView.py[line:74] INFO =====logout_action======
+2018-08-28 11:41:55,198 appium_desired.py[line:31] INFO start app...
+2018-08-28 11:42:10,215 common_fun.py[line:22] INFO ==========check_启动页取消=========
+2018-08-28 11:42:15,241 common_fun.py[line:29] INFO 点击启动页取消按钮
+2018-08-28 11:42:17,165 common_fun.py[line:39] INFO 点击跳过按钮
+2018-08-28 11:42:17,165 LoginView.py[line:23] INFO ============login_action==============
+2018-08-28 11:42:17,166 LoginView.py[line:24] INFO username is:mmoo1234
+2018-08-28 11:42:23,862 LoginView.py[line:26] INFO password is:q123456
+2018-08-28 11:42:29,702 LoginView.py[line:28] INFO click loginBtn
+2018-08-28 11:42:30,489 LoginView.py[line:30] INFO login finished!
+2018-08-28 11:42:30,489 LoginView.py[line:34] INFO ====check_是否登陆成功======
+2018-08-28 11:42:35,490 LoginView.py[line:65] INFO =====check_弹窗提示下线commit=====
+2018-08-28 11:42:46,183 LoginView.py[line:68] INFO =====No弹窗提示下线弹窗=====
+2018-08-28 11:42:46,183 LoginView.py[line:53] INFO ====check_我知道了(no_task)====
+2018-08-28 11:42:46,246 LoginView.py[line:59] INFO ====click_我知道了(no_task)====
+2018-08-28 11:42:50,748 LoginView.py[line:46] INFO login success!
+2018-08-28 11:42:50,749 LoginView.py[line:74] INFO =====logout_action======
+2018-08-28 11:42:59,968 appium_desired.py[line:31] INFO start app...
+2018-08-28 11:43:16,986 common_fun.py[line:22] INFO ==========check_启动页取消=========
+2018-08-28 11:43:19,090 common_fun.py[line:29] INFO 点击启动页取消按钮
+2018-08-28 11:43:20,467 common_fun.py[line:39] INFO 点击跳过按钮
+2018-08-28 11:43:20,468 LoginView.py[line:26] INFO ============login_action==============
+2018-08-28 11:43:20,468 LoginView.py[line:27] INFO username is:mmoo1234
+2018-08-28 11:43:27,181 LoginView.py[line:29] INFO password is:q123456
+2018-08-28 11:43:33,685 LoginView.py[line:31] INFO click loginBtn
+2018-08-28 11:43:34,416 LoginView.py[line:33] INFO login finished!
+2018-08-28 11:50:43,339 appium_desired.py[line:31] INFO start app...
+2018-08-28 11:50:58,048 common_fun.py[line:22] INFO ==========check_启动页取消=========
+2018-08-28 11:51:00,961 common_fun.py[line:29] INFO 点击启动页取消按钮
+2018-08-28 11:51:02,614 common_fun.py[line:39] INFO 点击跳过按钮
+2018-08-28 11:51:02,614 LoginView.py[line:26] INFO ============login_action==============
+2018-08-28 11:51:02,614 LoginView.py[line:27] INFO username is:mmoo1234
+2018-08-28 11:51:09,547 LoginView.py[line:29] INFO password is:q123456
+2018-08-28 11:51:15,844 LoginView.py[line:31] INFO click loginBtn
+2018-08-28 11:51:16,571 LoginView.py[line:33] INFO login finished!
+2018-08-28 11:51:53,261 appium_desired.py[line:31] INFO start app...
+2018-08-28 11:52:08,115 common_fun.py[line:22] INFO ==========check_启动页取消=========
+2018-08-28 11:52:09,974 common_fun.py[line:29] INFO 点击启动页取消按钮
+2018-08-28 11:52:11,824 common_fun.py[line:39] INFO 点击跳过按钮
+2018-08-28 11:52:11,824 LoginView.py[line:26] INFO ============login_action==============
+2018-08-28 11:52:11,825 LoginView.py[line:27] INFO username is:mmoo1234
+2018-08-28 11:52:18,546 LoginView.py[line:29] INFO password is:q123456
+2018-08-28 11:52:24,664 LoginView.py[line:31] INFO click loginBtn
+2018-08-28 11:52:25,377 LoginView.py[line:33] INFO login finished!
+2018-08-28 11:52:30,688 appium_desired.py[line:31] INFO start app...
+2018-08-28 11:52:47,360 common_fun.py[line:22] INFO ==========check_启动页取消=========
+2018-08-28 11:52:49,796 common_fun.py[line:29] INFO 点击启动页取消按钮
+2018-08-28 11:52:51,383 common_fun.py[line:39] INFO 点击跳过按钮
+2018-08-28 11:52:51,383 LoginView.py[line:26] INFO ============login_action==============
+2018-08-28 11:52:51,384 LoginView.py[line:27] INFO username is:mmoo1234
+2018-08-28 11:52:58,124 LoginView.py[line:29] INFO password is:q123456
+2018-08-28 11:53:04,520 LoginView.py[line:31] INFO click loginBtn
+2018-08-28 11:53:05,296 LoginView.py[line:33] INFO login finished!
+2018-08-28 12:30:38,589 appium_desired.py[line:31] INFO start app...
+2018-08-28 12:30:46,667 common_fun.py[line:22] INFO ==========check_启动页取消=========
+2018-08-28 12:30:48,051 common_fun.py[line:29] INFO 点击启动页取消按钮
+2018-08-28 12:30:49,485 common_fun.py[line:39] INFO 点击跳过按钮
+2018-08-28 12:30:49,485 LoginView.py[line:25] INFO ============login_action==============
+2018-08-28 12:30:49,486 LoginView.py[line:26] INFO username is:mmoo1234
+2018-08-28 12:30:54,946 LoginView.py[line:28] INFO password is:q123456
+2018-08-28 12:31:00,390 LoginView.py[line:30] INFO click loginBtn
+2018-08-28 12:31:01,066 LoginView.py[line:32] INFO login finished!
+2018-08-28 12:31:38,592 appium_desired.py[line:31] INFO start app...
+2018-08-28 12:31:48,213 common_fun.py[line:22] INFO ==========check_启动页取消=========
+2018-08-28 12:31:49,629 common_fun.py[line:29] INFO 点击启动页取消按钮
+2018-08-28 12:31:51,047 common_fun.py[line:39] INFO 点击跳过按钮
+2018-08-28 12:31:51,047 LoginView.py[line:25] INFO ============login_action==============
+2018-08-28 12:31:51,047 LoginView.py[line:26] INFO username is:mmoo1234
+2018-08-28 12:31:56,419 LoginView.py[line:28] INFO password is:q123456
+2018-08-28 12:32:02,001 LoginView.py[line:30] INFO click loginBtn
+2018-08-28 12:32:02,644 LoginView.py[line:32] INFO login finished!
+2018-08-28 12:33:03,202 appium_desired.py[line:31] INFO start app...
+2018-08-28 12:33:11,815 common_fun.py[line:22] INFO ==========check_启动页取消=========
+2018-08-28 12:33:13,643 common_fun.py[line:29] INFO 点击启动页取消按钮
+2018-08-28 12:33:14,803 common_fun.py[line:39] INFO 点击跳过按钮
+2018-08-28 12:33:14,804 LoginView.py[line:25] INFO ============login_action==============
+2018-08-28 12:33:14,804 LoginView.py[line:26] INFO username is:mmoo1234
+2018-08-28 12:33:20,600 LoginView.py[line:28] INFO password is:q123456
+2018-08-28 12:33:26,210 LoginView.py[line:30] INFO click loginBtn
+2018-08-28 12:33:26,929 LoginView.py[line:32] INFO login finished!
+2018-08-28 12:33:26,929 LoginView.py[line:38] INFO ====check_是否登陆成功======
+2018-08-28 12:33:31,930 LoginView.py[line:70] INFO =====check_弹窗提示下线commit=====
+2018-08-28 12:33:31,951 LoginView.py[line:75] INFO =====click_commit=====
+2018-08-28 12:33:32,387 LoginView.py[line:58] INFO ====check_我知道了(no_task)====
+2018-08-28 12:33:32,804 LoginView.py[line:64] INFO ====click_我知道了(no_task)====
+2018-08-28 12:33:36,865 LoginView.py[line:51] INFO login success!
+2018-08-28 12:33:36,865 LoginView.py[line:79] INFO =====logout_action======
+2018-08-28 12:34:15,590 appium_desired.py[line:31] INFO start app...
+2018-08-28 12:34:25,186 common_fun.py[line:22] INFO ==========check_启动页取消=========
+2018-08-28 12:34:27,029 common_fun.py[line:29] INFO 点击启动页取消按钮
+2018-08-28 12:34:28,671 common_fun.py[line:39] INFO 点击跳过按钮
+2018-08-28 12:34:28,671 LoginView.py[line:25] INFO ============login_action==============
+2018-08-28 12:34:28,672 LoginView.py[line:26] INFO username is:mmoo1234
+2018-08-28 12:34:34,259 LoginView.py[line:28] INFO password is:q123456
+2018-08-28 12:34:39,647 LoginView.py[line:30] INFO click loginBtn
+2018-08-28 12:34:40,283 LoginView.py[line:32] INFO login finished!
+2018-08-28 12:34:40,284 LoginView.py[line:38] INFO ====check_是否登陆成功======
+2018-08-28 12:36:18,722 appium_desired.py[line:31] INFO start app...
+2018-08-28 12:36:26,424 common_fun.py[line:22] INFO ==========check_启动页取消=========
+2018-08-28 12:36:27,879 common_fun.py[line:29] INFO 点击启动页取消按钮
+2018-08-28 12:36:29,217 common_fun.py[line:39] INFO 点击跳过按钮
+2018-08-28 12:36:29,217 LoginView.py[line:25] INFO ============login_action==============
+2018-08-28 12:36:29,217 LoginView.py[line:26] INFO username is:mmoo1234
+2018-08-28 12:36:34,744 LoginView.py[line:28] INFO password is:q123456
+2018-08-28 12:36:40,077 LoginView.py[line:30] INFO click loginBtn
+2018-08-28 12:36:40,817 LoginView.py[line:32] INFO login finished!
+2018-08-28 12:38:19,926 appium_desired.py[line:31] INFO start app...
+2018-08-28 12:38:27,473 common_fun.py[line:22] INFO ==========check_启动页取消=========
+2018-08-28 12:38:29,134 common_fun.py[line:29] INFO 点击启动页取消按钮
+2018-08-28 12:38:30,340 common_fun.py[line:39] INFO 点击跳过按钮
+2018-08-28 12:38:30,340 LoginView.py[line:25] INFO ============login_action==============
+2018-08-28 12:38:30,340 LoginView.py[line:26] INFO username is:mmoo1234
+2018-08-28 12:38:36,435 LoginView.py[line:28] INFO password is:q123456
+2018-08-28 12:38:41,793 LoginView.py[line:30] INFO click loginBtn
+2018-08-28 12:38:42,600 LoginView.py[line:32] INFO login finished!
+2018-08-28 12:38:42,600 LoginView.py[line:38] INFO ====check_是否登陆成功======
+2018-08-28 12:40:02,076 appium_desired.py[line:31] INFO start app...
+2018-08-28 12:40:10,216 common_fun.py[line:22] INFO ==========check_启动页取消=========
+2018-08-28 12:40:11,382 common_fun.py[line:29] INFO 点击启动页取消按钮
+2018-08-28 12:40:12,787 common_fun.py[line:39] INFO 点击跳过按钮
+2018-08-28 12:40:12,788 LoginView.py[line:25] INFO ============login_action==============
+2018-08-28 12:40:12,788 LoginView.py[line:26] INFO username is:mmoo1234
+2018-08-28 12:40:18,935 LoginView.py[line:28] INFO password is:q123456
+2018-08-28 12:40:24,368 LoginView.py[line:30] INFO click loginBtn
+2018-08-28 12:40:25,125 LoginView.py[line:32] INFO login finished!
+2018-08-28 12:40:25,125 LoginView.py[line:38] INFO ====check_是否登陆成功======
+2018-08-28 12:40:30,125 LoginView.py[line:70] INFO =====check_弹窗提示下线commit=====
+2018-08-28 12:40:30,137 LoginView.py[line:75] INFO =====click_commit=====
+2018-08-28 12:40:30,350 LoginView.py[line:58] INFO ====check_我知道了(no_task)====
+2018-08-28 12:40:31,001 LoginView.py[line:64] INFO ====click_我知道了(no_task)====
+2018-08-28 12:40:35,000 LoginView.py[line:51] INFO login success!
+2018-08-28 12:40:35,001 LoginView.py[line:79] INFO =====logout_action======
+2018-08-28 12:43:56,942 appium_desired.py[line:31] INFO start app...
+2018-08-28 12:44:04,522 common_fun.py[line:22] INFO ==========check_启动页取消=========
+2018-08-28 12:44:06,153 common_fun.py[line:29] INFO 点击启动页取消按钮
+2018-08-28 12:44:07,578 common_fun.py[line:39] INFO 点击跳过按钮
+2018-08-28 12:44:07,578 LoginView.py[line:25] INFO ============login_action==============
+2018-08-28 12:44:07,579 LoginView.py[line:26] INFO username is:mmoo1234
+2018-08-28 12:44:13,082 LoginView.py[line:28] INFO password is:q123456
+2018-08-28 12:44:18,366 LoginView.py[line:30] INFO click loginBtn
+2018-08-28 12:44:19,071 LoginView.py[line:32] INFO login finished!
+2018-08-28 12:44:19,071 LoginView.py[line:38] INFO ====check_是否登陆成功======
+2018-08-28 12:44:24,071 LoginView.py[line:75] INFO =====check_弹窗提示下线commit=====
+2018-08-28 12:44:34,197 LoginView.py[line:78] INFO =====No弹窗提示下线弹窗=====
+2018-08-28 12:44:34,197 LoginView.py[line:63] INFO ====check_我知道了(no_task)====
+2018-08-28 12:44:34,560 LoginView.py[line:69] INFO ====click_我知道了(no_task)====
+2018-08-28 12:44:38,709 LoginView.py[line:52] INFO login success!
+2018-08-28 12:44:38,709 LoginView.py[line:84] INFO =====logout_action======
+2018-08-28 12:45:12,654 appium_desired.py[line:31] INFO start app...
+2018-08-28 12:45:22,290 common_fun.py[line:22] INFO ==========check_启动页取消=========
+2018-08-28 12:45:23,871 common_fun.py[line:29] INFO 点击启动页取消按钮
+2018-08-28 12:45:25,327 common_fun.py[line:39] INFO 点击跳过按钮
+2018-08-28 12:45:25,327 LoginView.py[line:25] INFO ============login_action==============
+2018-08-28 12:45:25,327 LoginView.py[line:26] INFO username is:mmoo1234
+2018-08-28 12:45:30,929 LoginView.py[line:28] INFO password is:q123456
+2018-08-28 12:45:36,519 LoginView.py[line:30] INFO click loginBtn
+2018-08-28 12:45:37,234 LoginView.py[line:32] INFO login finished!
+2018-08-28 12:45:37,234 LoginView.py[line:38] INFO ====check_是否登陆成功======
+2018-08-28 12:45:42,234 LoginView.py[line:75] INFO =====check_弹窗提示下线commit=====
+2018-08-28 12:45:52,423 LoginView.py[line:78] INFO =====No弹窗提示下线弹窗=====
+2018-08-28 12:45:52,423 LoginView.py[line:63] INFO ====check_我知道了(no_task)====
+2018-08-28 12:45:52,459 LoginView.py[line:69] INFO ====click_我知道了(no_task)====
+2018-08-28 12:45:56,642 LoginView.py[line:52] INFO mmoo1234login success!
+2018-08-28 12:45:56,643 LoginView.py[line:84] INFO =====logout_action======
+2018-08-28 12:47:23,004 appium_desired.py[line:31] INFO start app...
+2018-08-28 12:47:30,776 common_fun.py[line:22] INFO ==========check_启动页取消=========
+2018-08-28 12:47:31,933 common_fun.py[line:29] INFO 点击启动页取消按钮
+2018-08-28 12:47:32,986 common_fun.py[line:39] INFO 点击跳过按钮
+2018-08-28 12:47:32,987 LoginView.py[line:25] INFO ============login_action==============
+2018-08-28 12:47:32,987 LoginView.py[line:26] INFO username is:mmoo1234
+2018-08-28 12:47:39,109 LoginView.py[line:28] INFO password is:q123456
+2018-08-28 12:47:44,351 LoginView.py[line:30] INFO click loginBtn
+2018-08-28 12:47:45,054 LoginView.py[line:32] INFO login finished!
+2018-08-28 12:47:45,054 LoginView.py[line:38] INFO ====check_是否登陆成功======
+2018-08-28 12:47:50,055 LoginView.py[line:76] INFO =====check_弹窗提示下线commit=====
+2018-08-28 12:48:00,103 LoginView.py[line:79] INFO =====No弹窗提示下线弹窗=====
+2018-08-28 12:48:00,103 LoginView.py[line:64] INFO ====check_我知道了(no_task)====
+2018-08-28 12:48:00,126 LoginView.py[line:70] INFO ====click_我知道了(no_task)====
+2018-08-28 12:48:04,211 LoginView.py[line:53] INFO mmoo1234login success!
+2018-08-28 12:48:04,212 LoginView.py[line:85] INFO =====logout_action======
+2018-08-28 12:48:33,089 appium_desired.py[line:31] INFO start app...
+2018-08-28 12:48:42,672 common_fun.py[line:22] INFO ==========check_启动页取消=========
+2018-08-28 12:48:44,676 common_fun.py[line:29] INFO 点击启动页取消按钮
+2018-08-28 12:48:45,788 common_fun.py[line:39] INFO 点击跳过按钮
+2018-08-28 12:48:45,789 LoginView.py[line:25] INFO ============login_action==============
+2018-08-28 12:48:45,789 LoginView.py[line:26] INFO username is:mmoo1234
+2018-08-28 12:48:51,482 LoginView.py[line:28] INFO password is:q123456
+2018-08-28 12:48:56,959 LoginView.py[line:30] INFO click loginBtn
+2018-08-28 12:48:57,677 LoginView.py[line:32] INFO login finished!
+2018-08-28 12:48:57,678 LoginView.py[line:38] INFO ====check_是否登陆成功======
+2018-08-28 12:49:02,678 LoginView.py[line:75] INFO =====check_弹窗提示下线commit=====
+2018-08-28 12:49:12,901 LoginView.py[line:78] INFO =====No弹窗提示下线弹窗=====
+2018-08-28 12:49:12,901 LoginView.py[line:63] INFO ====check_我知道了(no_task)====
+2018-08-28 12:49:13,475 LoginView.py[line:69] INFO ====click_我知道了(no_task)====
+2018-08-28 12:49:17,739 LoginView.py[line:56] INFO login后用户名不匹配,登陆前：mmoo1234,登陆后：mmoo1234
+2018-08-28 14:25:05,605 unit.py[line:14] INFO =====setUp====
+2018-08-28 14:25:05,610 appium_desired.py[line:31] INFO start app...
+2018-08-28 14:25:19,833 unit.py[line:18] INFO ====tearDown====
+2018-08-28 14:27:45,171 unit.py[line:14] INFO =====setUp====
+2018-08-28 14:27:45,173 appium_desired.py[line:31] INFO start app...
+2018-08-28 14:27:58,742 unit.py[line:18] INFO ====tearDown====
+2018-08-28 15:21:28,853 unit.py[line:14] INFO =====setUp====
+2018-08-28 15:21:28,856 appium_desired.py[line:31] INFO start app...
+2018-08-28 15:22:24,431 common_fun.py[line:22] INFO ==========check_启动页取消=========
+2018-08-28 15:22:26,448 common_fun.py[line:29] INFO 点击启动页取消按钮
+2018-08-28 15:22:27,876 common_fun.py[line:39] INFO 点击跳过按钮
+2018-08-28 15:22:27,877 LoginView.py[line:25] INFO ============login_action==============
+2018-08-28 15:22:27,877 LoginView.py[line:26] INFO username is:mmoo1234
+2018-08-28 15:22:34,511 LoginView.py[line:28] INFO password is:q123456
+2018-08-28 15:22:40,279 LoginView.py[line:30] INFO click loginBtn
+2018-08-28 15:22:41,037 LoginView.py[line:32] INFO login finished!
+2018-08-28 15:22:41,038 LoginView.py[line:38] INFO ====check_是否登陆成功======
+2018-08-28 15:22:46,039 LoginView.py[line:75] INFO =====check_弹窗提示下线commit=====
+2018-08-28 15:22:46,358 LoginView.py[line:80] INFO =====click_commit=====
+2018-08-28 15:22:47,073 LoginView.py[line:63] INFO ====check_我知道了(no_task)====
+2018-08-28 15:22:47,486 LoginView.py[line:69] INFO ====click_我知道了(no_task)====
+2018-08-28 15:22:52,443 LoginView.py[line:52] INFO mmoo1234login success!
+2018-08-28 15:22:52,443 LoginView.py[line:84] INFO =====logout_action======
+2018-08-28 15:22:57,277 unit.py[line:18] INFO ====tearDown====
+2018-08-28 15:31:16,288 unit.py[line:14] INFO =====setUp====
+2018-08-28 15:31:16,290 appium_desired.py[line:31] INFO start app...
+2018-08-28 15:31:33,224 common_fun.py[line:22] INFO ==========check_启动页取消=========
+2018-08-28 15:31:34,992 common_fun.py[line:29] INFO 点击启动页取消按钮
+2018-08-28 15:31:36,294 common_fun.py[line:39] INFO 点击跳过按钮
+2018-08-28 15:31:36,294 LoginView.py[line:25] INFO ============login_action==============
+2018-08-28 15:31:36,294 LoginView.py[line:26] INFO username is:mmoo1234
+2018-08-28 15:31:42,331 LoginView.py[line:28] INFO password is:q123456
+2018-08-28 15:31:48,071 LoginView.py[line:30] INFO click loginBtn
+2018-08-28 15:31:48,773 LoginView.py[line:32] INFO login finished!
+2018-08-28 15:31:48,774 LoginView.py[line:38] INFO ====check_是否登陆成功======
+2018-08-28 15:31:53,775 LoginView.py[line:75] INFO =====check_弹窗提示下线commit=====
+2018-08-28 15:32:04,580 LoginView.py[line:78] INFO =====No弹窗提示下线弹窗=====
+2018-08-28 15:32:04,580 LoginView.py[line:63] INFO ====check_我知道了(no_task)====
+2018-08-28 15:32:04,628 LoginView.py[line:69] INFO ====click_我知道了(no_task)====
+2018-08-28 15:32:12,610 LoginView.py[line:52] INFO mmoo1234login success!
+2018-08-28 15:32:12,611 LoginView.py[line:84] INFO =====logout_action======
+2018-08-28 15:32:17,654 LoginView.py[line:88] INFO =====logout_end======
+2018-08-28 15:32:17,655 unit.py[line:18] INFO ====tearDown====
+2018-08-28 15:56:37,269 unit.py[line:14] INFO =====setUp====
+2018-08-28 15:56:37,271 appium_desired.py[line:31] INFO start app...
+2018-08-28 15:56:51,611 test_login.py[line:21] INFO ======test_login_mmoo1234=====
+2018-08-28 15:56:51,612 common_fun.py[line:22] INFO ==========check_启动页取消=========
+2018-08-28 15:56:53,666 common_fun.py[line:29] INFO 点击启动页取消按钮
+2018-08-28 15:56:55,245 common_fun.py[line:39] INFO 点击跳过按钮
+2018-08-28 15:56:55,246 LoginView.py[line:25] INFO ============login_action==============
+2018-08-28 15:56:55,246 LoginView.py[line:26] INFO username is:mmoo1234
+2018-08-28 15:57:01,503 LoginView.py[line:28] INFO password is:q123456
+2018-08-28 15:57:07,105 LoginView.py[line:30] INFO click loginBtn
+2018-08-28 15:57:07,756 LoginView.py[line:32] INFO login finished!
+2018-08-28 15:57:07,757 LoginView.py[line:38] INFO ====check_是否登陆成功======
+2018-08-28 15:57:12,758 LoginView.py[line:75] INFO =====check_弹窗提示下线commit=====
+2018-08-28 15:57:23,818 LoginView.py[line:78] INFO =====No弹窗提示下线弹窗=====
+2018-08-28 15:57:23,818 LoginView.py[line:63] INFO ====check_我知道了(no_task)====
+2018-08-28 15:57:24,652 LoginView.py[line:69] INFO ====click_我知道了(no_task)====
+2018-08-28 15:57:29,135 LoginView.py[line:52] INFO mmoo1234login success!
+2018-08-28 15:57:29,136 LoginView.py[line:84] INFO =====logout_action======
+2018-08-28 15:57:34,028 LoginView.py[line:88] INFO =====logout_end======
+2018-08-28 15:57:34,029 unit.py[line:18] INFO ====tearDown====
+2018-08-28 16:24:41,094 unit.py[line:14] INFO =====setUp====
+2018-08-28 16:24:41,096 appium_desired.py[line:31] INFO start app...
+2018-08-28 16:24:55,033 test_login.py[line:21] INFO ======test_login_mmoo1234=====
+2018-08-28 16:24:55,033 common_fun.py[line:22] INFO ==========check_启动页取消=========
+2018-08-28 16:24:56,816 common_fun.py[line:29] INFO 点击启动页取消按钮
+2018-08-28 16:24:58,366 common_fun.py[line:39] INFO 点击跳过按钮
+2018-08-28 16:24:58,367 LoginView.py[line:25] INFO ============login_action==============
+2018-08-28 16:24:58,367 LoginView.py[line:26] INFO username is:mmoo1234
+2018-08-28 16:25:04,784 LoginView.py[line:28] INFO password is:q123456
+2018-08-28 16:25:10,483 LoginView.py[line:30] INFO click loginBtn
+2018-08-28 16:25:11,521 LoginView.py[line:32] INFO login finished!
+2018-08-28 16:25:11,521 LoginView.py[line:38] INFO ====check_是否登陆成功======
+2018-08-28 16:25:16,521 LoginView.py[line:75] INFO =====check_弹窗提示下线commit=====
+2018-08-28 16:25:26,620 LoginView.py[line:78] INFO =====No弹窗提示下线弹窗=====
+2018-08-28 16:25:26,620 LoginView.py[line:63] INFO ====check_我知道了(no_task)====
+2018-08-28 16:25:26,854 LoginView.py[line:69] INFO ====click_我知道了(no_task)====
+2018-08-28 16:25:32,025 LoginView.py[line:52] INFO mmoo1234login success!
+2018-08-28 16:25:32,025 LoginView.py[line:84] INFO =====logout_action======
+2018-08-28 16:25:36,331 LoginView.py[line:88] INFO =====logout_end======
+2018-08-28 16:25:36,332 unit.py[line:18] INFO ====tearDown====
+2018-08-28 16:25:42,142 unit.py[line:14] INFO =====setUp====
+2018-08-28 16:25:42,146 appium_desired.py[line:31] INFO start app...
+2018-08-28 16:25:59,076 unit.py[line:18] INFO ====tearDown====
+2018-08-28 16:27:08,165 unit.py[line:14] INFO =====setUp====
+2018-08-28 16:27:08,172 appium_desired.py[line:31] INFO start app...
+2018-08-28 16:27:22,980 test_login.py[line:21] INFO ======test_login_mmoo1234=====
+2018-08-28 16:27:22,981 common_fun.py[line:22] INFO ==========check_启动页取消=========
+2018-08-28 16:27:24,267 common_fun.py[line:29] INFO 点击启动页取消按钮
+2018-08-28 16:27:25,790 common_fun.py[line:39] INFO 点击跳过按钮
+2018-08-28 16:27:25,790 LoginView.py[line:25] INFO ============login_action==============
+2018-08-28 16:27:25,791 LoginView.py[line:26] INFO username is:mmoo1234
+2018-08-28 16:27:32,181 LoginView.py[line:28] INFO password is:q123456
+2018-08-28 16:27:38,495 LoginView.py[line:30] INFO click loginBtn
+2018-08-28 16:27:39,319 LoginView.py[line:32] INFO login finished!
+2018-08-28 16:27:39,320 LoginView.py[line:38] INFO ====check_是否登陆成功======
+2018-08-28 16:27:44,320 LoginView.py[line:75] INFO =====check_弹窗提示下线commit=====
+2018-08-28 16:27:55,095 LoginView.py[line:78] INFO =====No弹窗提示下线弹窗=====
+2018-08-28 16:27:55,095 LoginView.py[line:63] INFO ====check_我知道了(no_task)====
+2018-08-28 16:27:55,191 LoginView.py[line:69] INFO ====click_我知道了(no_task)====
+2018-08-28 16:27:59,377 LoginView.py[line:52] INFO mmoo1234login success!
+2018-08-28 16:27:59,377 LoginView.py[line:84] INFO =====logout_action======
+2018-08-28 16:28:04,978 LoginView.py[line:88] INFO =====logout_end======
+2018-08-28 16:28:04,978 unit.py[line:18] INFO ====tearDown====
+2018-08-28 16:28:18,235 unit.py[line:14] INFO =====setUp====
+2018-08-28 16:28:18,238 appium_desired.py[line:31] INFO start app...
+2018-08-28 16:28:35,724 test_login.py[line:21] INFO ======test_login_mmoo1234=====
+2018-08-28 16:28:35,724 common_fun.py[line:22] INFO ==========check_启动页取消=========
+2018-08-28 16:28:37,507 common_fun.py[line:29] INFO 点击启动页取消按钮
+2018-08-28 16:28:38,862 common_fun.py[line:39] INFO 点击跳过按钮
+2018-08-28 16:28:38,863 LoginView.py[line:25] INFO ============login_action==============
+2018-08-28 16:28:38,863 LoginView.py[line:26] INFO username is:mmoo1234
+2018-08-28 16:28:45,338 LoginView.py[line:28] INFO password is:q123456
+2018-08-28 16:28:51,192 LoginView.py[line:30] INFO click loginBtn
+2018-08-28 16:28:54,852 LoginView.py[line:32] INFO login finished!
+2018-08-28 16:28:54,852 LoginView.py[line:38] INFO ====check_是否登陆成功======
+2018-08-28 16:28:59,853 LoginView.py[line:75] INFO =====check_弹窗提示下线commit=====
+2018-08-28 16:29:11,069 LoginView.py[line:78] INFO =====No弹窗提示下线弹窗=====
+2018-08-28 16:29:11,070 LoginView.py[line:63] INFO ====check_我知道了(no_task)====
+2018-08-28 16:29:11,303 LoginView.py[line:69] INFO ====click_我知道了(no_task)====
+2018-08-28 16:29:16,198 LoginView.py[line:52] INFO mmoo1234login success!
+2018-08-28 16:29:16,199 LoginView.py[line:84] INFO =====logout_action======
+2018-08-28 16:29:22,026 LoginView.py[line:88] INFO =====logout_end======
+2018-08-28 16:29:22,026 unit.py[line:18] INFO ====tearDown====
+2018-08-28 16:29:27,838 unit.py[line:14] INFO =====setUp====
+2018-08-28 16:29:27,848 appium_desired.py[line:31] INFO start app...
+2018-08-28 16:29:44,756 unit.py[line:18] INFO ====tearDown====
+2018-08-28 16:29:53,420 unit.py[line:14] INFO =====setUp====
+2018-08-28 16:29:53,422 appium_desired.py[line:31] INFO start app...
+2018-08-28 16:30:10,744 test_login.py[line:21] INFO ======test_login_mmoo1234=====
+2018-08-28 16:30:10,744 common_fun.py[line:22] INFO ==========check_启动页取消=========
+2018-08-28 16:30:12,463 common_fun.py[line:29] INFO 点击启动页取消按钮
+2018-08-28 16:30:13,745 common_fun.py[line:39] INFO 点击跳过按钮
+2018-08-28 16:30:13,745 LoginView.py[line:25] INFO ============login_action==============
+2018-08-28 16:30:13,746 LoginView.py[line:26] INFO username is:mmoo1234
+2018-08-28 16:30:19,581 LoginView.py[line:28] INFO password is:q123456
+2018-08-28 16:30:25,551 LoginView.py[line:30] INFO click loginBtn
+2018-08-28 16:30:26,265 LoginView.py[line:32] INFO login finished!
+2018-08-28 16:30:26,266 LoginView.py[line:38] INFO ====check_是否登陆成功======
+2018-08-28 16:30:31,267 LoginView.py[line:75] INFO =====check_弹窗提示下线commit=====
+2018-08-28 16:30:41,675 LoginView.py[line:78] INFO =====No弹窗提示下线弹窗=====
+2018-08-28 16:30:41,675 LoginView.py[line:63] INFO ====check_我知道了(no_task)====
+2018-08-28 16:30:41,807 LoginView.py[line:69] INFO ====click_我知道了(no_task)====
+2018-08-28 16:30:46,476 LoginView.py[line:52] INFO mmoo1234login success!
+2018-08-28 16:30:46,476 LoginView.py[line:84] INFO =====logout_action======
+2018-08-28 16:30:52,338 LoginView.py[line:88] INFO =====logout_end======
+2018-08-28 16:30:52,338 unit.py[line:18] INFO ====tearDown====
+2018-08-28 16:30:58,151 unit.py[line:14] INFO =====setUp====
+2018-08-28 16:30:58,162 appium_desired.py[line:31] INFO start app...
+2018-08-28 16:31:15,133 test_login.py[line:28] INFO ======test_login_zxw2018======
+2018-08-28 16:31:15,133 common_fun.py[line:22] INFO ==========check_启动页取消=========
+2018-08-28 16:31:16,872 common_fun.py[line:29] INFO 点击启动页取消按钮
+2018-08-28 16:31:18,199 common_fun.py[line:39] INFO 点击跳过按钮
+2018-08-28 16:31:18,199 LoginView.py[line:25] INFO ============login_action==============
+2018-08-28 16:31:18,199 LoginView.py[line:26] INFO username is:自学网2018
+2018-08-28 16:31:24,800 LoginView.py[line:28] INFO password is:zxw2018
+2018-08-28 16:31:31,549 LoginView.py[line:30] INFO click loginBtn
+2018-08-28 16:31:32,203 LoginView.py[line:32] INFO login finished!
+2018-08-28 16:31:32,203 LoginView.py[line:38] INFO ====check_是否登陆成功======
+2018-08-28 16:31:37,204 LoginView.py[line:75] INFO =====check_弹窗提示下线commit=====
+2018-08-28 16:31:47,253 LoginView.py[line:78] INFO =====No弹窗提示下线弹窗=====
+2018-08-28 16:31:47,253 LoginView.py[line:63] INFO ====check_我知道了(no_task)====
+2018-08-28 16:31:47,302 LoginView.py[line:69] INFO ====click_我知道了(no_task)====
+2018-08-28 16:31:51,781 LoginView.py[line:52] INFO 自学网2018login success!
+2018-08-28 16:31:51,782 LoginView.py[line:84] INFO =====logout_action======
+2018-08-28 16:31:56,382 LoginView.py[line:88] INFO =====logout_end======
+2018-08-28 16:31:56,383 unit.py[line:18] INFO ====tearDown====
+2018-08-28 22:50:50,673 common_fun.py[line:92] INFO 找到data文件
+2018-08-28 23:02:10,748 common_fun.py[line:89] ERROR data目录下找不到data文件
+2018-08-28 23:02:23,468 common_fun.py[line:89] ERROR data目录下找不到logindata.csv文件
+2018-08-28 23:02:45,530 common_fun.py[line:90] ERROR data目录下找不到logindata.csv文件
+2018-08-28 23:03:01,863 common_fun.py[line:90] ERROR data目录下找不到logindata.csv文件
+2018-08-28 23:03:10,710 common_fun.py[line:93] INFO 找到logindata.csv文件
+2018-08-28 23:03:31,425 common_fun.py[line:90] ERROR data目录下找不到logindata文件
+2018-08-28 23:17:15,565 appium_desired.py[line:31] INFO start app...
+2018-08-28 23:17:48,233 appium_desired.py[line:31] INFO start app...
+2018-08-28 23:18:03,436 appium_desired.py[line:31] INFO start app...
+2018-08-28 23:18:41,633 appium_desired.py[line:31] INFO start app...
+2018-08-28 23:18:59,933 appium_desired.py[line:31] INFO start app...
+2018-08-28 23:20:33,077 appium_desired.py[line:31] INFO start app...
+2018-08-29 09:08:02,635 appium_desired.py[line:31] INFO start app...
+2018-08-29 09:09:17,310 appium_desired.py[line:31] INFO start app...
+2018-08-29 09:15:18,849 appium_desired.py[line:31] INFO start app...
+2018-08-29 09:39:46,508 appium_desired.py[line:31] INFO start app...
+2018-08-29 09:40:51,036 appium_desired.py[line:31] INFO start app...
+2018-08-29 09:41:26,463 appium_desired.py[line:31] INFO start app...
+2018-08-29 09:45:15,830 appium_desired.py[line:31] INFO start app...
+2018-08-29 10:41:18,484 appium_desired.py[line:31] INFO start app...
+2018-08-29 11:24:12,956 unit.py[line:14] INFO =====setUp====
+2018-08-29 11:24:12,959 appium_desired.py[line:31] INFO start app...
+2018-08-29 11:25:07,952 test_login.py[line:21] INFO ======test_login_mmoo1234=====
+2018-08-29 11:25:07,953 unit.py[line:18] INFO ====tearDown====
+2018-08-29 11:25:13,790 unit.py[line:14] INFO =====setUp====
+2018-08-29 11:25:13,797 appium_desired.py[line:31] INFO start app...
+2018-08-29 11:25:30,936 test_login.py[line:29] INFO ======test_login_zxw2018======
+2018-08-29 11:25:30,936 unit.py[line:18] INFO ====tearDown====
+2018-08-29 11:26:17,396 unit.py[line:14] INFO =====setUp====
+2018-08-29 11:26:17,398 appium_desired.py[line:31] INFO start app...
+2018-08-29 11:26:34,300 test_login.py[line:21] INFO ======test_login_mmoo1234=====
+2018-08-29 11:26:34,301 unit.py[line:18] INFO ====tearDown====
+2018-08-29 11:26:40,104 unit.py[line:14] INFO =====setUp====
+2018-08-29 11:26:40,106 appium_desired.py[line:31] INFO start app...
+2018-08-29 11:26:57,156 test_login.py[line:29] INFO ======test_login_zxw2018======
+2018-08-29 11:26:57,157 unit.py[line:18] INFO ====tearDown====
+2018-08-29 11:28:59,723 unit.py[line:14] INFO =====setUp====
+2018-08-29 11:28:59,726 appium_desired.py[line:31] INFO start app...
+2018-08-29 11:29:13,878 test_login.py[line:21] INFO ======test_login_mmoo1234=====
+2018-08-29 11:29:13,883 common_fun.py[line:20] INFO ==========check_启动页取消=========
+2018-08-29 11:29:15,398 common_fun.py[line:27] INFO 点击启动页取消按钮
+2018-08-29 11:29:17,076 common_fun.py[line:37] INFO 点击跳过按钮
+2018-08-29 11:29:17,077 LoginView.py[line:25] INFO ============login_action==============
+2018-08-29 11:29:17,078 LoginView.py[line:26] INFO username is:data[0]
+2018-08-29 11:29:23,123 LoginView.py[line:28] INFO password is:data[1]
+2018-08-29 11:29:28,919 LoginView.py[line:30] INFO click loginBtn
+2018-08-29 11:29:29,578 LoginView.py[line:32] INFO login finished!
+2018-08-29 11:29:29,578 LoginView.py[line:38] INFO ====check_是否登陆成功======
+2018-08-29 11:29:34,579 LoginView.py[line:75] INFO =====check_弹窗提示下线commit=====
+2018-08-29 11:29:44,960 LoginView.py[line:78] INFO =====No弹窗提示下线弹窗=====
+2018-08-29 11:29:44,961 LoginView.py[line:63] INFO ====check_我知道了(no_task)====
+2018-08-29 11:29:55,553 LoginView.py[line:66] INFO ====no_task====
+2018-08-29 11:30:06,026 LoginView.py[line:47] ERROR login Fail!
+2018-08-29 11:30:06,026 BaseView.py[line:20] INFO get screenshot:C:\Users\Mcen\学习\python\Text_Python\text_text\kyb_project/screenshots/20180829113006_login fail.png 
+2018-08-29 11:30:08,051 unit.py[line:18] INFO ====tearDown====
+2018-08-29 11:30:13,949 unit.py[line:14] INFO =====setUp====
+2018-08-29 11:30:13,953 appium_desired.py[line:31] INFO start app...
+2018-08-29 11:30:33,641 test_login.py[line:29] INFO ======test_login_zxw2018======
+2018-08-29 11:30:33,642 unit.py[line:18] INFO ====tearDown====
+2018-08-29 11:31:56,271 unit.py[line:14] INFO =====setUp====
+2018-08-29 11:31:56,273 appium_desired.py[line:31] INFO start app...
+2018-08-29 11:32:10,074 test_login.py[line:21] INFO ======test_login_mmoo1234=====
+2018-08-29 11:32:10,077 common_fun.py[line:20] INFO ==========check_启动页取消=========
+2018-08-29 11:32:12,013 common_fun.py[line:27] INFO 点击启动页取消按钮
+2018-08-29 11:32:13,575 common_fun.py[line:37] INFO 点击跳过按钮
+2018-08-29 11:32:13,575 LoginView.py[line:25] INFO ============login_action==============
+2018-08-29 11:32:13,576 LoginView.py[line:26] INFO username is:mmoo1234
+2018-08-29 11:32:20,205 LoginView.py[line:28] INFO password is:q123456
+2018-08-29 11:32:26,154 LoginView.py[line:30] INFO click loginBtn
+2018-08-29 11:32:26,827 LoginView.py[line:32] INFO login finished!
+2018-08-29 11:32:26,827 LoginView.py[line:38] INFO ====check_是否登陆成功======
+2018-08-29 11:32:31,827 LoginView.py[line:75] INFO =====check_弹窗提示下线commit=====
+2018-08-29 11:32:41,946 LoginView.py[line:78] INFO =====No弹窗提示下线弹窗=====
+2018-08-29 11:32:41,946 LoginView.py[line:63] INFO ====check_我知道了(no_task)====
+2018-08-29 11:32:42,092 LoginView.py[line:69] INFO ====click_我知道了(no_task)====
+2018-08-29 11:32:46,528 LoginView.py[line:52] INFO mmoo1234login success!
+2018-08-29 11:32:46,529 LoginView.py[line:84] INFO =====logout_action======
+2018-08-29 11:32:52,439 LoginView.py[line:88] INFO =====logout_end======
+2018-08-29 11:32:52,439 unit.py[line:18] INFO ====tearDown====
+2018-08-29 11:32:58,312 unit.py[line:14] INFO =====setUp====
+2018-08-29 11:32:58,323 appium_desired.py[line:31] INFO start app...
+2018-08-29 11:33:14,706 test_login.py[line:37] INFO ======test_login_mo======
+2018-08-29 11:33:14,706 unit.py[line:18] INFO ====tearDown====
+2018-08-29 11:34:23,076 unit.py[line:14] INFO =====setUp====
+2018-08-29 11:34:23,082 appium_desired.py[line:31] INFO start app...
+2018-08-29 11:34:37,919 test_login.py[line:21] INFO ======test_login_mmoo1234=====
+2018-08-29 11:34:37,919 unit.py[line:18] INFO ====tearDown====
+2018-08-29 11:34:43,797 unit.py[line:14] INFO =====setUp====
+2018-08-29 11:34:43,803 appium_desired.py[line:31] INFO start app...
+2018-08-29 11:34:59,626 unit.py[line:14] INFO =====setUp====
+2018-08-29 11:34:59,638 appium_desired.py[line:31] INFO start app...
+2018-08-29 11:35:00,728 test_login.py[line:37] INFO ======test_login_mo======
+2018-08-29 11:35:00,729 unit.py[line:18] INFO ====tearDown====
+2018-08-29 11:35:17,006 test_login.py[line:21] INFO ======test_login_mmoo1234=====
+2018-08-29 11:35:17,006 unit.py[line:18] INFO ====tearDown====
+2018-08-29 11:35:29,633 unit.py[line:14] INFO =====setUp====
+2018-08-29 11:35:29,636 appium_desired.py[line:31] INFO start app...
+2018-08-29 11:35:46,467 test_login.py[line:21] INFO ======test_login_mmoo1234=====
+2018-08-29 11:35:46,468 unit.py[line:18] INFO ====tearDown====
+2018-08-29 11:36:12,868 unit.py[line:14] INFO =====setUp====
+2018-08-29 11:36:12,871 appium_desired.py[line:31] INFO start app...
+2018-08-29 11:36:28,972 test_login.py[line:21] INFO ======test_login_mmoo1234=====
+2018-08-29 11:36:28,973 unit.py[line:18] INFO ====tearDown====
+2018-08-29 11:36:43,197 unit.py[line:14] INFO =====setUp====
+2018-08-29 11:36:43,200 appium_desired.py[line:31] INFO start app...
+2018-08-29 11:37:00,175 test_login.py[line:21] INFO ======test_login_mmoo1234=====
+2018-08-29 11:37:00,176 unit.py[line:18] INFO ====tearDown====
+2018-08-29 11:37:08,790 unit.py[line:14] INFO =====setUp====
+2018-08-29 11:37:08,792 appium_desired.py[line:31] INFO start app...
+2018-08-29 11:37:25,791 test_login.py[line:20] INFO ======test_login_mmoo1234=====
+2018-08-29 11:37:25,795 common_fun.py[line:20] INFO ==========check_启动页取消=========
+2018-08-29 11:37:27,660 common_fun.py[line:27] INFO 点击启动页取消按钮
+2018-08-29 11:37:29,236 common_fun.py[line:37] INFO 点击跳过按钮
+2018-08-29 11:37:29,236 LoginView.py[line:25] INFO ============login_action==============
+2018-08-29 11:37:29,237 LoginView.py[line:26] INFO username is:mmoo1234
+2018-08-29 11:37:35,591 LoginView.py[line:28] INFO password is:q123456
+2018-08-29 11:37:41,667 LoginView.py[line:30] INFO click loginBtn
+2018-08-29 11:37:42,334 LoginView.py[line:32] INFO login finished!
+2018-08-29 11:37:42,334 LoginView.py[line:38] INFO ====check_是否登陆成功======
+2018-08-29 11:37:47,335 LoginView.py[line:75] INFO =====check_弹窗提示下线commit=====
+2018-08-29 11:37:57,443 LoginView.py[line:78] INFO =====No弹窗提示下线弹窗=====
+2018-08-29 11:37:57,443 LoginView.py[line:63] INFO ====check_我知道了(no_task)====
+2018-08-29 11:37:57,503 LoginView.py[line:69] INFO ====click_我知道了(no_task)====
+2018-08-29 11:38:01,812 LoginView.py[line:52] INFO mmoo1234login success!
+2018-08-29 11:38:01,812 LoginView.py[line:84] INFO =====logout_action======
+2018-08-29 11:38:07,717 LoginView.py[line:88] INFO =====logout_end======
+2018-08-29 11:38:07,717 unit.py[line:18] INFO ====tearDown====
+2018-08-29 11:42:32,305 unit.py[line:14] INFO =====setUp====
+2018-08-29 11:43:19,225 unit.py[line:14] INFO =====setUp====
+2018-08-29 11:43:19,227 appium_desired.py[line:32] INFO start app...
+2018-08-29 11:44:48,410 unit.py[line:14] INFO =====setUp====
+2018-08-29 11:44:48,412 appium_desired.py[line:32] INFO start app...
+2018-08-29 12:31:35,007 appium_desired.py[line:32] INFO start app...
+2018-08-29 12:33:33,003 appium_desired.py[line:32] INFO start app...
+2018-08-29 12:36:21,507 appium_desired.py[line:31] INFO start app...
+2018-08-29 12:37:08,071 appium_desired.py[line:31] INFO start app...
+2018-08-29 12:37:40,971 appium_desired.py[line:31] INFO start app...
+2018-08-29 12:42:40,232 appium_desired.py[line:31] INFO start app...
+2018-08-29 12:54:39,196 appium_desired.py[line:31] INFO start app...
+2018-08-29 13:01:11,109 appium_desired.py[line:31] INFO start app...
+2018-08-29 13:06:26,466 appium_desired.py[line:31] INFO start app...
+2018-08-29 13:07:44,536 appium_desired.py[line:31] INFO start app...
+2018-08-29 13:08:49,255 appium_desired.py[line:31] INFO start app...
+2018-08-29 13:10:22,336 appium_desired.py[line:31] INFO start app...
+2018-08-29 13:19:56,827 appium_desired.py[line:31] INFO start app...
+2018-08-29 13:21:13,183 appium_desired.py[line:31] INFO start app...
+2018-08-29 13:21:32,866 common_fun.py[line:20] INFO ==========check_启动页取消=========
+2018-08-29 13:21:32,976 common_fun.py[line:27] INFO 点击启动页取消按钮
+2018-08-29 13:21:33,784 common_fun.py[line:37] INFO 点击跳过按钮
+2018-08-29 13:21:33,784 LoginView.py[line:25] INFO ============login_action==============
+2018-08-29 13:21:33,784 LoginView.py[line:26] INFO username is:mmoo1234
+2018-08-29 13:25:32,488 appium_desired.py[line:31] INFO start app...
+2018-08-29 13:25:52,102 common_fun.py[line:20] INFO ==========check_启动页取消=========
+2018-08-29 13:25:52,155 common_fun.py[line:27] INFO 点击启动页取消按钮
+2018-08-29 13:25:52,937 common_fun.py[line:37] INFO 点击跳过按钮
+2018-08-29 13:25:52,937 LoginView.py[line:25] INFO ============login_action==============
+2018-08-29 13:25:52,938 LoginView.py[line:26] INFO username is:mmoo1234
+2018-08-29 13:25:55,550 LoginView.py[line:29] INFO password is:q123456
+2018-08-29 13:25:56,116 LoginView.py[line:31] INFO click loginBtn
+2018-08-29 13:25:56,639 LoginView.py[line:33] INFO login finished!
+2018-08-29 13:25:56,640 LoginView.py[line:39] INFO ====check_是否登陆成功======
+2018-08-29 13:26:01,640 LoginView.py[line:76] INFO =====check_弹窗提示下线commit=====
+2018-08-29 13:26:01,712 LoginView.py[line:79] INFO =====No弹窗提示下线弹窗=====
+2018-08-29 13:26:01,712 LoginView.py[line:64] INFO ====check_我知道了(no_task)====
+2018-08-29 13:26:01,744 LoginView.py[line:70] INFO ====click_我知道了(no_task)====
+2018-08-29 13:26:02,513 LoginView.py[line:53] INFO mmoo1234login success!
+2018-08-29 13:26:02,513 LoginView.py[line:85] INFO =====logout_action======
+2018-08-29 13:28:50,204 appium_desired.py[line:31] INFO start app...
+2018-08-29 13:29:09,503 common_fun.py[line:20] INFO ==========check_启动页取消=========
+2018-08-29 13:29:09,572 common_fun.py[line:27] INFO 点击启动页取消按钮
+2018-08-29 13:29:10,332 common_fun.py[line:37] INFO 点击跳过按钮
+2018-08-29 13:29:10,332 LoginView.py[line:25] INFO ============login_action==============
+2018-08-29 13:29:10,332 LoginView.py[line:26] INFO username is:mmoo1234
+2018-08-29 13:29:12,943 LoginView.py[line:29] INFO password is:q123456
+2018-08-29 13:29:13,483 LoginView.py[line:31] INFO click loginBtn
+2018-08-29 13:29:14,008 LoginView.py[line:33] INFO login finished!
+2018-08-29 13:29:14,009 LoginView.py[line:39] INFO ====check_是否登陆成功======
+2018-08-29 13:29:19,009 LoginView.py[line:76] INFO =====check_弹窗提示下线commit=====
+2018-08-29 13:29:19,098 LoginView.py[line:79] INFO =====No弹窗提示下线弹窗=====
+2018-08-29 13:29:19,098 LoginView.py[line:64] INFO ====check_我知道了(no_task)====
+2018-08-29 13:29:19,129 LoginView.py[line:70] INFO ====click_我知道了(no_task)====
+2018-08-29 13:29:20,007 LoginView.py[line:53] INFO mmoo1234login success!
+2018-08-29 13:29:20,007 LoginView.py[line:85] INFO =====logout_action======
+2018-08-29 13:30:01,945 appium_desired.py[line:31] INFO start app...
+2018-08-29 13:30:21,945 common_fun.py[line:20] INFO ==========check_启动页取消=========
+2018-08-29 13:30:21,994 common_fun.py[line:27] INFO 点击启动页取消按钮
+2018-08-29 13:30:22,037 common_fun.py[line:34] INFO 不存在跳过按钮
+2018-08-29 13:30:22,037 LoginView.py[line:25] INFO ============login_action==============
+2018-08-29 13:30:22,038 LoginView.py[line:26] INFO username is:mmoo1234
+2018-08-29 13:30:53,752 appium_desired.py[line:31] INFO start app...
+2018-08-29 13:31:13,307 common_fun.py[line:20] INFO ==========check_启动页取消=========
+2018-08-29 13:31:13,418 common_fun.py[line:27] INFO 点击启动页取消按钮
+2018-08-29 13:31:14,148 common_fun.py[line:37] INFO 点击跳过按钮
+2018-08-29 13:31:14,148 LoginView.py[line:25] INFO ============login_action==============
+2018-08-29 13:31:14,149 LoginView.py[line:26] INFO username is:mmoo1234
+2018-08-29 13:31:19,788 LoginView.py[line:29] INFO password is:q123456
+2018-08-29 13:31:20,386 LoginView.py[line:31] INFO click loginBtn
+2018-08-29 13:31:20,919 LoginView.py[line:33] INFO login finished!
+2018-08-29 13:31:20,919 LoginView.py[line:39] INFO ====check_是否登陆成功======
+2018-08-29 13:31:25,920 LoginView.py[line:76] INFO =====check_弹窗提示下线commit=====
+2018-08-29 13:31:26,011 LoginView.py[line:79] INFO =====No弹窗提示下线弹窗=====
+2018-08-29 13:31:26,011 LoginView.py[line:64] INFO ====check_我知道了(no_task)====
+2018-08-29 13:31:26,037 LoginView.py[line:70] INFO ====click_我知道了(no_task)====
+2018-08-29 13:31:26,797 LoginView.py[line:53] INFO mmoo1234login success!
+2018-08-29 13:31:26,798 LoginView.py[line:85] INFO =====logout_action======
+2018-08-29 13:31:58,200 appium_desired.py[line:31] INFO start app...
+2018-08-29 13:32:18,765 common_fun.py[line:20] INFO ==========check_启动页取消=========
+2018-08-29 13:32:18,856 common_fun.py[line:27] INFO 点击启动页取消按钮
+2018-08-29 13:32:19,604 common_fun.py[line:37] INFO 点击跳过按钮
+2018-08-29 13:32:19,605 LoginView.py[line:25] INFO ============login_action==============
+2018-08-29 13:32:19,605 LoginView.py[line:26] INFO username is:mmoo1234
+2018-08-29 13:32:25,241 LoginView.py[line:29] INFO password is:q123456
+2018-08-29 13:32:25,826 LoginView.py[line:31] INFO click loginBtn
+2018-08-29 13:32:26,362 LoginView.py[line:33] INFO login finished!
+2018-08-29 13:32:26,362 LoginView.py[line:39] INFO ====check_是否登陆成功======
+2018-08-29 13:32:31,362 LoginView.py[line:76] INFO =====check_弹窗提示下线commit=====
+2018-08-29 13:32:31,425 LoginView.py[line:79] INFO =====No弹窗提示下线弹窗=====
+2018-08-29 13:32:31,426 LoginView.py[line:64] INFO ====check_我知道了(no_task)====
+2018-08-29 13:32:31,455 LoginView.py[line:70] INFO ====click_我知道了(no_task)====
+2018-08-29 13:32:32,319 LoginView.py[line:53] INFO mmoo1234login success!
+2018-08-29 13:32:32,320 LoginView.py[line:85] INFO =====logout_action======
+2018-08-29 13:32:36,520 BaseView.py[line:20] INFO get screenshot:C:\Users\Mcen\学习\python\Text_Python\text_text\kyb_project/screenshots/20180829133236_Logout.png 
+2018-08-29 13:33:14,998 appium_desired.py[line:31] INFO start app...
+2018-08-29 13:33:34,427 common_fun.py[line:20] INFO ==========check_启动页取消=========
+2018-08-29 13:33:34,511 common_fun.py[line:27] INFO 点击启动页取消按钮
+2018-08-29 13:33:35,321 common_fun.py[line:37] INFO 点击跳过按钮
+2018-08-29 13:33:35,322 LoginView.py[line:26] INFO ============login_action==============
+2018-08-29 13:33:35,322 LoginView.py[line:27] INFO username is:mmoo1234
+2018-08-29 13:33:49,890 appium_desired.py[line:31] INFO start app...
+2018-08-29 13:34:09,679 common_fun.py[line:20] INFO ==========check_启动页取消=========
+2018-08-29 13:34:09,765 common_fun.py[line:27] INFO 点击启动页取消按钮
+2018-08-29 13:34:10,569 common_fun.py[line:37] INFO 点击跳过按钮
+2018-08-29 13:34:10,569 LoginView.py[line:26] INFO ============login_action==============
+2018-08-29 13:34:10,569 LoginView.py[line:27] INFO username is:mmoo1234
+2018-08-29 13:34:16,245 LoginView.py[line:30] INFO password is:q123456
+2018-08-29 13:34:16,824 LoginView.py[line:32] INFO click loginBtn
+2018-08-29 13:34:17,355 LoginView.py[line:34] INFO login finished!
+2018-08-29 13:34:17,356 LoginView.py[line:40] INFO ====check_是否登陆成功======
+2018-08-29 13:34:22,356 LoginView.py[line:77] INFO =====check_弹窗提示下线commit=====
+2018-08-29 13:34:22,515 LoginView.py[line:80] INFO =====No弹窗提示下线弹窗=====
+2018-08-29 13:34:22,515 LoginView.py[line:65] INFO ====check_我知道了(no_task)====
+2018-08-29 13:34:22,554 LoginView.py[line:71] INFO ====click_我知道了(no_task)====
+2018-08-29 13:34:23,898 LoginView.py[line:54] INFO mmoo1234login success!
+2018-08-29 13:34:23,898 LoginView.py[line:86] INFO =====logout_action======
+2018-08-29 13:34:28,134 BaseView.py[line:20] INFO get screenshot:C:\Users\Mcen\学习\python\Text_Python\text_text\kyb_project/screenshots/20180829133428_Logout.png 
+2018-08-29 13:35:00,792 appium_desired.py[line:31] INFO start app...
+2018-08-29 13:35:20,271 common_fun.py[line:20] INFO ==========check_启动页取消=========
+2018-08-29 13:35:20,338 common_fun.py[line:27] INFO 点击启动页取消按钮
+2018-08-29 13:35:20,395 common_fun.py[line:34] INFO 不存在跳过按钮
+2018-08-29 13:35:20,396 LoginView.py[line:26] INFO ============login_action==============
+2018-08-29 13:35:20,396 LoginView.py[line:27] INFO username is:mmoo1234
+2018-08-29 13:35:29,257 appium_desired.py[line:31] INFO start app...
+2018-08-29 13:35:48,637 common_fun.py[line:20] INFO ==========check_启动页取消=========
+2018-08-29 13:35:48,698 common_fun.py[line:27] INFO 点击启动页取消按钮
+2018-08-29 13:35:49,505 common_fun.py[line:37] INFO 点击跳过按钮
+2018-08-29 13:35:49,505 LoginView.py[line:26] INFO ============login_action==============
+2018-08-29 13:35:49,505 LoginView.py[line:27] INFO username is:mmoo1234
+2018-08-29 13:35:55,150 LoginView.py[line:30] INFO password is:q123456
+2018-08-29 13:35:55,746 LoginView.py[line:32] INFO click loginBtn
+2018-08-29 13:35:56,305 LoginView.py[line:34] INFO login finished!
+2018-08-29 13:35:56,305 LoginView.py[line:40] INFO ====check_是否登陆成功======
+2018-08-29 13:36:01,305 LoginView.py[line:77] INFO =====check_弹窗提示下线commit=====
+2018-08-29 13:36:01,356 LoginView.py[line:80] INFO =====No弹窗提示下线弹窗=====
+2018-08-29 13:36:01,356 LoginView.py[line:65] INFO ====check_我知道了(no_task)====
+2018-08-29 13:36:01,377 LoginView.py[line:71] INFO ====click_我知道了(no_task)====
+2018-08-29 13:36:02,244 LoginView.py[line:54] INFO mmoo1234login success!
+2018-08-29 13:36:02,244 LoginView.py[line:86] INFO =====logout_action======
+2018-08-29 13:36:06,457 BaseView.py[line:20] INFO get screenshot:C:\Users\Mcen\学习\python\Text_Python\text_text\kyb_project/screenshots/20180829133606_Logout.png 
+2018-08-29 13:37:54,307 appium_desired.py[line:31] INFO start app...
+2018-08-29 13:38:14,041 common_fun.py[line:20] INFO ==========check_启动页取消=========
+2018-08-29 13:38:14,117 common_fun.py[line:27] INFO 点击启动页取消按钮
+2018-08-29 13:38:14,906 common_fun.py[line:37] INFO 点击跳过按钮
+2018-08-29 13:38:14,907 LoginView.py[line:26] INFO ============login_action==============
+2018-08-29 13:38:14,907 LoginView.py[line:27] INFO username is:mmoo1234
+2018-08-29 13:38:20,532 LoginView.py[line:30] INFO password is:q123456
+2018-08-29 13:38:21,111 LoginView.py[line:32] INFO click loginBtn
+2018-08-29 13:38:21,628 LoginView.py[line:34] INFO login finished!
+2018-08-29 13:38:21,628 LoginView.py[line:40] INFO ====check_是否登陆成功======
+2018-08-29 13:38:26,628 LoginView.py[line:77] INFO =====check_弹窗提示下线commit=====
+2018-08-29 13:38:26,711 LoginView.py[line:80] INFO =====No弹窗提示下线弹窗=====
+2018-08-29 13:38:26,711 LoginView.py[line:65] INFO ====check_我知道了(no_task)====
+2018-08-29 13:38:26,737 LoginView.py[line:71] INFO ====click_我知道了(no_task)====
+2018-08-29 13:38:27,555 LoginView.py[line:54] INFO mmoo1234login success!
+2018-08-29 13:38:27,556 LoginView.py[line:86] INFO =====logout_action======
+2018-08-29 13:38:31,732 BaseView.py[line:20] INFO get screenshot:C:\Users\Mcen\学习\python\Text_Python\text_text\kyb_project/screenshots/20180829133831_Logout.png 
+2018-08-29 14:15:41,621 appium_desired.py[line:31] INFO start app...
+2018-08-29 14:30:49,906 appium_desired.py[line:31] INFO start app...
+2018-08-29 14:36:55,620 appium_desired.py[line:31] INFO start app...
+2018-08-29 15:06:17,825 appium_desired.py[line:31] INFO start app...
+2018-08-29 15:06:50,662 common_fun.py[line:20] INFO ==========check_启动页取消=========
+2018-08-29 15:06:50,792 common_fun.py[line:27] INFO 点击启动页取消按钮
+2018-08-29 15:06:51,757 common_fun.py[line:37] INFO 点击跳过按钮
+2018-08-29 15:06:51,758 LoginView.py[line:26] INFO ============login_action==============
+2018-08-29 15:06:51,759 LoginView.py[line:27] INFO username is:mmoo1234
+2018-08-29 15:06:57,404 LoginView.py[line:30] INFO password is:q123456
+2018-08-29 15:06:57,977 LoginView.py[line:32] INFO click loginBtn
+2018-08-29 15:06:58,520 LoginView.py[line:34] INFO login finished!
+2018-08-29 15:06:58,521 LoginView.py[line:40] INFO ====check_是否登陆成功======
+2018-08-29 15:07:03,521 LoginView.py[line:77] INFO =====check_弹窗提示下线commit=====
+2018-08-29 15:07:03,659 LoginView.py[line:80] INFO =====No弹窗提示下线弹窗=====
+2018-08-29 15:07:03,659 LoginView.py[line:65] INFO ====check_我知道了(no_task)====
+2018-08-29 15:07:03,732 LoginView.py[line:71] INFO ====click_我知道了(no_task)====
+2018-08-29 15:07:04,603 LoginView.py[line:54] INFO mmoo1234login success!
+2018-08-29 15:07:04,604 LoginView.py[line:86] INFO =====logout_action======
+2018-08-29 15:07:08,904 BaseView.py[line:20] INFO get screenshot:C:\Users\Mcen\学习\python\Text_Python\text_text\kyb_project/screenshots/20180829150708_Logout.png 
+2018-08-29 16:59:26,603 appium_desired.py[line:31] INFO start app...
+2018-08-29 17:00:00,747 common_fun.py[line:20] INFO ==========check_启动页取消=========
+2018-08-29 17:00:00,857 common_fun.py[line:27] INFO 点击启动页取消按钮
+2018-08-29 17:00:01,783 common_fun.py[line:37] INFO 点击跳过按钮
+2018-08-29 17:00:01,784 LoginView.py[line:27] INFO ============login_action==============
+2018-08-29 17:00:01,785 LoginView.py[line:28] INFO username is:mmoo1234
+2018-08-29 17:00:07,465 LoginView.py[line:31] INFO password is:q123456
+2018-08-29 17:00:08,068 LoginView.py[line:33] INFO click loginBtn
+2018-08-29 17:00:08,643 LoginView.py[line:35] INFO login finished!
+2018-08-29 17:00:08,643 LoginView.py[line:41] INFO ====check_是否登陆成功======
+2018-08-29 17:00:13,644 LoginView.py[line:78] INFO =====check_弹窗提示下线commit=====
+2018-08-29 17:00:13,774 LoginView.py[line:81] INFO =====No弹窗提示下线弹窗=====
+2018-08-29 17:00:13,774 LoginView.py[line:66] INFO ====check_我知道了(no_task)====
+2018-08-29 17:00:13,826 LoginView.py[line:72] INFO ====click_我知道了(no_task)====
+2018-08-29 17:00:15,061 LoginView.py[line:55] INFO mmoo1234login success!
+2018-08-29 17:00:15,062 LoginView.py[line:87] INFO =====logout_action======
+2018-08-29 17:00:19,437 BaseView.py[line:20] INFO get screenshot:C:\Users\Mcen\学习\python\Text_Python\text_text\kyb_project/screenshots/20180829170019_Logout.png 
+2018-08-29 17:00:31,102 appium_desired.py[line:31] INFO start app...
+2018-08-29 17:01:01,727 common_fun.py[line:20] INFO ==========check_启动页取消=========
+2018-08-29 17:01:01,811 common_fun.py[line:27] INFO 点击启动页取消按钮
+2018-08-29 17:01:02,688 common_fun.py[line:37] INFO 点击跳过按钮
+2018-08-29 17:01:02,689 LoginView.py[line:27] INFO ============login_action==============
+2018-08-29 17:01:02,690 LoginView.py[line:28] INFO username is:mmoo1234
+2018-08-29 17:01:08,513 LoginView.py[line:31] INFO password is:q123456
+2018-08-29 17:01:09,129 LoginView.py[line:33] INFO click loginBtn
+2018-08-29 17:01:09,736 LoginView.py[line:35] INFO login finished!
+2018-08-29 17:01:09,737 LoginView.py[line:41] INFO ====check_是否登陆成功======
+2018-08-29 17:01:14,738 LoginView.py[line:78] INFO =====check_弹窗提示下线commit=====
+2018-08-29 17:01:14,843 LoginView.py[line:81] INFO =====No弹窗提示下线弹窗=====
+2018-08-29 17:01:14,843 LoginView.py[line:66] INFO ====check_我知道了(no_task)====
+2018-08-29 17:01:14,900 LoginView.py[line:72] INFO ====click_我知道了(no_task)====
+2018-08-29 17:01:15,872 LoginView.py[line:55] INFO mmoo1234login success!
+2018-08-29 17:01:15,873 LoginView.py[line:87] INFO =====logout_action======
+2018-08-29 17:02:17,587 appium_desired.py[line:31] INFO start app...
+2018-08-29 17:02:50,674 common_fun.py[line:20] INFO ==========check_启动页取消=========
+2018-08-29 17:02:50,761 common_fun.py[line:27] INFO 点击启动页取消按钮
+2018-08-29 17:02:51,095 common_fun.py[line:34] INFO 不存在跳过按钮
+2018-08-29 17:02:51,095 LoginView.py[line:27] INFO ============login_action==============
+2018-08-29 17:02:51,096 LoginView.py[line:28] INFO username is:mmoo1234
+2018-08-29 17:03:48,942 appium_desired.py[line:31] INFO start app...
+2018-08-29 17:04:20,800 common_fun.py[line:20] INFO ==========check_启动页取消=========
+2018-08-29 17:04:20,899 common_fun.py[line:27] INFO 点击启动页取消按钮
+2018-08-29 17:04:21,806 common_fun.py[line:37] INFO 点击跳过按钮
+2018-08-29 17:04:21,807 LoginView.py[line:27] INFO ============login_action==============
+2018-08-29 17:04:21,807 LoginView.py[line:28] INFO username is:mmoo1234
+2018-08-29 17:04:27,469 LoginView.py[line:31] INFO password is:q123456
+2018-08-29 17:04:28,043 LoginView.py[line:33] INFO click loginBtn
+2018-08-29 17:04:29,206 LoginView.py[line:35] INFO login finished!
+2018-08-29 17:04:29,206 LoginView.py[line:41] INFO ====check_是否登陆成功======
+2018-08-29 17:04:34,207 LoginView.py[line:78] INFO =====check_弹窗提示下线commit=====
+2018-08-29 17:04:34,739 LoginView.py[line:81] INFO =====No弹窗提示下线弹窗=====
+2018-08-29 17:04:34,739 LoginView.py[line:66] INFO ====check_我知道了(no_task)====
+2018-08-29 17:04:34,794 LoginView.py[line:72] INFO ====click_我知道了(no_task)====
+2018-08-29 17:04:35,743 LoginView.py[line:55] INFO mmoo1234login success!
+2018-08-29 17:04:35,744 LoginView.py[line:87] INFO =====logout_action======
+2018-08-29 17:05:17,554 appium_desired.py[line:31] INFO start app...
+2018-08-29 17:05:50,999 common_fun.py[line:20] INFO ==========check_启动页取消=========
+2018-08-29 17:05:51,135 common_fun.py[line:27] INFO 点击启动页取消按钮
+2018-08-29 17:05:52,147 common_fun.py[line:37] INFO 点击跳过按钮
+2018-08-29 17:05:52,147 LoginView.py[line:27] INFO ============login_action==============
+2018-08-29 17:05:52,147 LoginView.py[line:28] INFO username is:mmoo1234
+2018-08-29 17:05:57,867 LoginView.py[line:31] INFO password is:q123456
+2018-08-29 17:05:58,461 LoginView.py[line:33] INFO click loginBtn
+2018-08-29 17:05:59,077 LoginView.py[line:35] INFO login finished!
+2018-08-29 17:05:59,077 LoginView.py[line:41] INFO ====check_是否登陆成功======
+2018-08-29 17:06:04,078 LoginView.py[line:78] INFO =====check_弹窗提示下线commit=====
+2018-08-29 17:06:04,270 LoginView.py[line:81] INFO =====No弹窗提示下线弹窗=====
+2018-08-29 17:06:04,270 LoginView.py[line:66] INFO ====check_我知道了(no_task)====
+2018-08-29 17:06:04,327 LoginView.py[line:72] INFO ====click_我知道了(no_task)====
+2018-08-29 17:06:05,292 LoginView.py[line:55] INFO mmoo1234login success!
+2018-08-29 17:06:05,292 LoginView.py[line:87] INFO =====logout_action======
+2018-08-29 17:08:27,443 appium_desired.py[line:31] INFO start app...
+2018-08-29 17:09:00,682 common_fun.py[line:20] INFO ==========check_启动页取消=========
+2018-08-29 17:09:00,793 common_fun.py[line:27] INFO 点击启动页取消按钮
+2018-08-29 17:09:01,677 common_fun.py[line:37] INFO 点击跳过按钮
+2018-08-29 17:09:01,677 LoginView.py[line:27] INFO ============login_action==============
+2018-08-29 17:09:01,677 LoginView.py[line:28] INFO username is:mmoo1234
+2018-08-29 17:09:07,335 LoginView.py[line:31] INFO password is:q123456
+2018-08-29 17:09:07,882 LoginView.py[line:33] INFO click loginBtn
+2018-08-29 17:09:08,446 LoginView.py[line:35] INFO login finished!
+2018-08-29 17:09:08,446 LoginView.py[line:41] INFO ====check_是否登陆成功======
+2018-08-29 17:09:13,446 LoginView.py[line:78] INFO =====check_弹窗提示下线commit=====
+2018-08-29 17:09:13,576 LoginView.py[line:81] INFO =====No弹窗提示下线弹窗=====
+2018-08-29 17:09:13,577 LoginView.py[line:66] INFO ====check_我知道了(no_task)====
+2018-08-29 17:09:13,628 LoginView.py[line:72] INFO ====click_我知道了(no_task)====
+2018-08-29 17:09:14,660 LoginView.py[line:55] INFO mmoo1234login success!
+2018-08-29 17:09:14,661 LoginView.py[line:87] INFO =====logout_action======
+2018-08-29 17:23:18,507 appium_desired.py[line:31] INFO start app...
+2018-08-29 17:23:50,042 common_fun.py[line:20] INFO ==========check_启动页取消=========
+2018-08-29 17:23:50,160 common_fun.py[line:27] INFO 点击启动页取消按钮
+2018-08-29 17:23:51,056 common_fun.py[line:37] INFO 点击跳过按钮
+2018-08-29 17:23:51,057 LoginView.py[line:27] INFO ============login_action==============
+2018-08-29 17:23:51,057 LoginView.py[line:28] INFO username is:mmoo1234
+2018-08-29 17:23:56,765 LoginView.py[line:31] INFO password is:q123456
+2018-08-29 17:23:57,382 LoginView.py[line:33] INFO click loginBtn
+2018-08-29 17:23:57,975 LoginView.py[line:35] INFO login finished!
+2018-08-29 17:23:57,975 LoginView.py[line:41] INFO ====check_是否登陆成功======
+2018-08-29 17:24:02,976 LoginView.py[line:78] INFO =====check_弹窗提示下线commit=====
+2018-08-29 17:24:03,129 LoginView.py[line:81] INFO =====No弹窗提示下线弹窗=====
+2018-08-29 17:24:03,130 LoginView.py[line:66] INFO ====check_我知道了(no_task)====
+2018-08-29 17:24:03,199 LoginView.py[line:72] INFO ====click_我知道了(no_task)====
+2018-08-29 17:24:04,633 LoginView.py[line:55] INFO mmoo1234login success!
+2018-08-29 17:24:04,633 LoginView.py[line:87] INFO =====logout_action======
+2018-08-29 17:28:22,113 appium_desired.py[line:31] INFO start app...
+2018-08-29 17:46:06,085 appium_desired.py[line:31] INFO start app...
+2018-08-29 17:46:36,449 common_fun.py[line:20] INFO ==========check_启动页取消=========
+2018-08-29 17:46:36,589 common_fun.py[line:27] INFO 点击启动页取消按钮
+2018-08-29 17:46:37,526 common_fun.py[line:37] INFO 点击跳过按钮
+2018-08-29 17:46:37,526 LoginView.py[line:27] INFO ============login_action==============
+2018-08-29 17:46:37,526 LoginView.py[line:28] INFO username is:mmoo1234
+2018-08-29 17:46:43,243 LoginView.py[line:31] INFO password is:q123456
+2018-08-29 17:46:43,828 LoginView.py[line:33] INFO click loginBtn
+2018-08-29 17:46:44,400 LoginView.py[line:35] INFO login finished!
+2018-08-29 17:46:44,401 LoginView.py[line:41] INFO ====check_是否登陆成功======
+2018-08-29 17:46:49,402 LoginView.py[line:78] INFO =====check_弹窗提示下线commit=====
+2018-08-29 17:46:49,702 LoginView.py[line:81] INFO =====No弹窗提示下线弹窗=====
+2018-08-29 17:46:49,702 LoginView.py[line:66] INFO ====check_我知道了(no_task)====
+2018-08-29 17:46:50,482 LoginView.py[line:72] INFO ====click_我知道了(no_task)====
+2018-08-29 17:46:51,374 LoginView.py[line:55] INFO mmoo1234login success!
+2018-08-29 17:46:51,375 LoginView.py[line:87] INFO =====logout_action======
+2018-08-29 17:48:48,888 appium_desired.py[line:31] INFO start app...
+2018-08-29 17:49:19,880 common_fun.py[line:20] INFO ==========check_启动页取消=========
+2018-08-29 17:49:20,124 common_fun.py[line:27] INFO 点击启动页取消按钮
+2018-08-29 17:49:20,963 common_fun.py[line:37] INFO 点击跳过按钮
+2018-08-29 17:49:20,964 LoginView.py[line:27] INFO ============login_action==============
+2018-08-29 17:49:20,964 LoginView.py[line:28] INFO username is:mmoo1234
+2018-08-29 17:49:26,620 LoginView.py[line:31] INFO password is:q123456
+2018-08-29 17:49:27,209 LoginView.py[line:33] INFO click loginBtn
+2018-08-29 17:49:27,814 LoginView.py[line:35] INFO login finished!
+2018-08-29 17:49:27,814 LoginView.py[line:41] INFO ====check_是否登陆成功======
+2018-08-29 17:49:32,815 LoginView.py[line:78] INFO =====check_弹窗提示下线commit=====
+2018-08-29 17:49:32,982 LoginView.py[line:81] INFO =====No弹窗提示下线弹窗=====
+2018-08-29 17:49:32,982 LoginView.py[line:66] INFO ====check_我知道了(no_task)====
+2018-08-29 17:49:33,042 LoginView.py[line:72] INFO ====click_我知道了(no_task)====
+2018-08-29 17:49:34,524 LoginView.py[line:55] INFO mmoo1234login success!
+2018-08-29 17:49:34,524 LoginView.py[line:87] INFO =====logout_action======
+2018-08-29 17:50:53,049 appium_desired.py[line:31] INFO start app...
+2018-08-29 17:51:49,930 common_fun.py[line:20] INFO ==========check_启动页取消=========
+2018-08-29 17:51:50,067 common_fun.py[line:27] INFO 点击启动页取消按钮
+2018-08-29 17:51:51,042 common_fun.py[line:37] INFO 点击跳过按钮
+2018-08-29 17:51:51,042 LoginView.py[line:27] INFO ============login_action==============
+2018-08-29 17:51:51,043 LoginView.py[line:28] INFO username is:mmoo1234
+2018-08-29 17:51:56,695 LoginView.py[line:31] INFO password is:q123456
+2018-08-29 17:51:57,290 LoginView.py[line:33] INFO click loginBtn
+2018-08-29 17:51:57,891 LoginView.py[line:35] INFO login finished!
+2018-08-29 17:51:57,891 LoginView.py[line:41] INFO ====check_是否登陆成功======
+2018-08-29 17:52:02,892 LoginView.py[line:78] INFO =====check_弹窗提示下线commit=====
+2018-08-29 17:52:03,047 LoginView.py[line:81] INFO =====No弹窗提示下线弹窗=====
+2018-08-29 17:52:03,048 LoginView.py[line:66] INFO ====check_我知道了(no_task)====
+2018-08-29 17:52:03,130 LoginView.py[line:72] INFO ====click_我知道了(no_task)====
+2018-08-29 17:52:04,538 LoginView.py[line:55] INFO mmoo1234login success!
+2018-08-29 17:52:04,538 LoginView.py[line:87] INFO =====logout_action======
+2018-08-29 21:09:47,587 appium_desired.py[line:31] INFO start app...
+2018-08-29 21:10:47,028 appium_desired.py[line:31] INFO start app...
+2018-08-29 21:11:21,820 appium_desired.py[line:31] INFO start app...
+2018-08-29 21:13:16,663 appium_desired.py[line:31] INFO start app...
+2018-08-29 21:13:56,814 appium_desired.py[line:31] INFO start app...
+2018-08-29 21:19:15,088 appium_desired.py[line:31] INFO start app...
+2018-08-29 21:23:19,647 appium_desired.py[line:31] INFO start app...
+2018-08-29 21:25:56,086 appium_desired.py[line:31] INFO start app...
+2018-08-29 21:27:38,222 appium_desired.py[line:31] INFO start app...
+2018-08-29 21:30:11,880 appium_desired.py[line:31] INFO start app...
+2018-08-29 21:30:38,550 appium_desired.py[line:31] INFO start app...
+2018-08-29 21:30:55,575 common_fun.py[line:20] INFO ==========check_启动页取消=========
+2018-08-29 21:30:56,915 common_fun.py[line:24] INFO 没有启动页取消按钮
+2018-08-29 21:30:56,950 common_fun.py[line:34] INFO 不存在跳过按钮
+2018-08-29 21:30:56,951 LoginView.py[line:26] INFO ============login_action==============
+2018-08-29 21:30:56,951 LoginView.py[line:27] INFO username is:mmoo1234
+2018-08-29 21:32:13,171 appium_desired.py[line:31] INFO start app...
+2018-08-29 21:32:59,909 appium_desired.py[line:31] INFO start app...
+2018-08-29 21:34:59,415 appium_desired.py[line:31] INFO start app...
+2018-08-29 21:35:15,573 common_fun.py[line:20] INFO ==========check_启动页取消=========
+2018-08-29 21:35:15,631 common_fun.py[line:24] INFO 没有启动页取消按钮
+2018-08-29 21:35:15,655 common_fun.py[line:34] INFO 不存在跳过按钮
+2018-08-29 21:35:15,655 LoginView.py[line:26] INFO ============login_action==============
+2018-08-29 21:35:15,655 LoginView.py[line:27] INFO username is:mmoo1234
+2018-08-29 21:36:04,782 appium_desired.py[line:31] INFO start app...
+2018-08-29 21:37:21,539 appium_desired.py[line:31] INFO start app...
+2018-08-29 21:37:32,498 appium_desired.py[line:31] INFO start app...
+2018-08-29 21:39:31,282 appium_desired.py[line:31] INFO start app...
+2018-08-29 21:39:47,725 common_fun.py[line:20] INFO ==========check_启动页取消=========
+2018-08-29 21:39:47,787 common_fun.py[line:24] INFO 没有启动页取消按钮
+2018-08-29 21:39:47,804 common_fun.py[line:34] INFO 不存在跳过按钮
+2018-08-29 21:39:47,805 LoginView.py[line:26] INFO ============login_action==============
+2018-08-29 21:39:47,805 LoginView.py[line:27] INFO username is:mmoo1234
+2018-08-29 22:20:35,193 unit.py[line:14] INFO =====setUp====
+2018-08-29 22:20:35,195 appium_desired.py[line:31] INFO start app...
+2018-08-29 22:20:52,830 test_login.py[line:20] INFO ======test_login_mmoo1234=====
+2018-08-29 22:20:52,848 common_fun.py[line:20] INFO ==========check_启动页取消=========
+2018-08-29 22:20:52,896 common_fun.py[line:24] INFO 没有启动页取消按钮
+2018-08-29 22:20:52,918 common_fun.py[line:34] INFO 不存在跳过按钮
+2018-08-29 22:20:52,918 LoginView.py[line:26] INFO ============login_action==============
+2018-08-29 22:20:52,918 LoginView.py[line:27] INFO username is:mmoo1234
+2018-08-29 22:20:57,994 unit.py[line:18] INFO ====tearDown====
+2018-08-29 22:21:23,208 unit.py[line:14] INFO =====setUp====
+2018-08-29 22:21:23,210 appium_desired.py[line:31] INFO start app...
+2018-08-29 22:21:40,137 test_login.py[line:20] INFO ======test_login_mmoo1234=====
+2018-08-29 22:21:40,138 common_fun.py[line:20] INFO ==========check_启动页取消=========
+2018-08-29 22:21:40,166 common_fun.py[line:24] INFO 没有启动页取消按钮
+2018-08-29 22:21:40,212 common_fun.py[line:34] INFO 不存在跳过按钮
+2018-08-29 22:21:40,212 LoginView.py[line:26] INFO ============login_action==============
+2018-08-29 22:21:40,212 LoginView.py[line:27] INFO username is:mmoo1234
+2018-08-29 22:21:45,250 unit.py[line:18] INFO ====tearDown====
+2018-08-30 20:11:06,933 appium_desired.py[line:37] INFO start app...
+2018-08-30 20:15:58,343 appium_desired.py[line:32] INFO start app...
+2018-09-10 22:25:07,943 run.py[line:18] INFO start run test case...
+2018-09-10 22:25:07,943 unit.py[line:14] INFO =====setUp====
+2018-09-10 22:25:49,543 unit.py[line:14] INFO =====setUp====
+2018-09-10 22:28:44,915 appium_desired.py[line:32] INFO start app...
+2018-09-10 22:32:32,651 appium_desired.py[line:32] INFO start app...
+2018-09-10 22:34:01,712 appium_desired.py[line:32] INFO start app...
+2018-09-10 23:00:24,599 desired_caps.py[line:34] INFO start app...
+2018-09-10 23:05:36,030 desired_caps.py[line:36] INFO start app...
+2018-09-10 23:05:43,058 desired_caps.py[line:43] INFO dfafda
+2018-09-10 23:13:36,799 desired_caps.py[line:36] INFO start app...
+2018-09-11 11:01:00,780 desired_caps.py[line:36] INFO start app...
+2018-09-11 11:01:16,294 common_fun.py[line:17] INFO ====检查是否升级====
+2018-09-11 11:01:17,728 common_fun.py[line:23] INFO ===点击检查按钮===
+2018-09-11 11:03:26,355 desired_caps.py[line:36] INFO start app...
+2018-09-11 11:03:38,116 common_fun.py[line:17] INFO ====检查是否升级====
+2018-09-11 11:03:38,963 common_fun.py[line:23] INFO ===点击检查按钮===
+2018-09-11 11:04:03,091 desired_caps.py[line:36] INFO start app...
+2018-09-11 11:04:17,506 common_fun.py[line:17] INFO ====检查是否升级====
+2018-09-11 11:04:18,321 common_fun.py[line:24] INFO ===点击检查按钮===
+2018-09-11 11:24:32,303 desired_caps.py[line:36] INFO start app...
+2018-09-11 11:24:39,188 common_fun.py[line:18] INFO ====检查是否升级====
+2018-09-11 11:24:39,972 common_fun.py[line:25] INFO ===点击升级按钮===
+2018-09-11 11:26:16,521 desired_caps.py[line:36] INFO start app...
+2018-09-11 11:26:23,414 common_fun.py[line:18] INFO ====检查是否升级====
+2018-09-11 11:26:24,090 common_fun.py[line:25] INFO ===点击升级按钮===
+2018-09-11 11:42:07,361 desired_caps.py[line:36] INFO start app...
+2018-09-11 11:42:14,689 common_fun.py[line:18] INFO ====检查是否升级====
+2018-09-11 11:42:15,337 common_fun.py[line:25] INFO ===点击升级按钮===
+2018-09-11 11:42:26,049 desired_caps.py[line:36] INFO start app...
+2018-09-11 11:42:35,436 common_fun.py[line:18] INFO ====检查是否升级====
+2018-09-11 11:42:36,522 common_fun.py[line:25] INFO ===点击升级按钮===
+2018-09-11 11:48:38,308 desired_caps.py[line:36] INFO start app...
+2018-09-11 11:48:45,306 common_fun.py[line:18] INFO ====检查是否升级====
+2018-09-11 11:48:47,037 common_fun.py[line:25] INFO ===点击升级按钮===
+2018-09-11 11:48:47,434 BaseView.py[line:55] INFO 向左滑动
+2018-09-11 11:48:48,374 common_fun.py[line:28] INFO ===检查跳过按钮===
+2018-09-11 11:48:48,382 common_fun.py[line:32] INFO 无跳过按钮元素!
+2018-09-11 11:50:57,555 desired_caps.py[line:36] INFO start app...
+2018-09-11 11:51:04,738 common_fun.py[line:18] INFO ====检查是否升级====
+2018-09-11 11:51:08,386 common_fun.py[line:25] INFO ===点击升级按钮===
+2018-09-11 11:51:08,877 BaseView.py[line:55] INFO 向左滑动
+2018-09-11 11:51:11,813 common_fun.py[line:28] INFO ===检查跳过按钮===
+2018-09-11 11:51:11,813 common_fun.py[line:32] INFO 无跳过按钮元素!
+2018-09-11 11:53:39,912 desired_caps.py[line:36] INFO start app...
+2018-09-11 11:53:48,865 common_fun.py[line:20] INFO ====检查是否升级====
+2018-09-11 11:53:49,539 common_fun.py[line:27] INFO ===点击升级按钮===
+2018-09-11 11:53:49,882 BaseView.py[line:55] INFO 向左滑动
+2018-09-11 11:53:52,859 common_fun.py[line:30] INFO ===检查跳过按钮===
+2018-09-11 11:54:01,493 common_fun.py[line:34] INFO 无跳过按钮元素!
+2018-09-11 11:54:13,787 desired_caps.py[line:36] INFO start app...
+2018-09-11 11:54:23,364 common_fun.py[line:20] INFO ====检查是否升级====
+2018-09-11 11:54:24,012 common_fun.py[line:27] INFO ===点击升级按钮===
+2018-09-11 11:54:24,370 BaseView.py[line:55] INFO 向左滑动
+2018-09-11 11:54:27,309 common_fun.py[line:30] INFO ===检查跳过按钮===
+2018-09-11 11:54:27,327 common_fun.py[line:36] INFO 点击跳过按钮
+2018-09-11 12:04:25,807 desired_caps.py[line:36] INFO start app...
+2018-09-11 12:04:33,376 common_fun.py[line:18] INFO ====检查是否升级====
+2018-09-11 12:04:34,145 common_fun.py[line:25] INFO ===点击升级按钮===
+2018-09-11 12:04:34,578 BaseView.py[line:57] INFO 向左滑动
+2018-09-11 12:04:35,526 common_fun.py[line:28] INFO ===检查跳过按钮===
+2018-09-11 12:04:36,839 common_fun.py[line:34] INFO 点击跳过按钮
+2018-09-11 12:05:32,941 desired_caps.py[line:36] INFO start app...
+2018-09-11 12:05:41,793 common_fun.py[line:18] INFO ====检查是否升级====
+2018-09-11 12:05:42,543 common_fun.py[line:25] INFO ===点击升级按钮===
+2018-09-11 12:05:42,913 BaseView.py[line:57] INFO 向左滑动
+2018-09-11 12:05:43,843 common_fun.py[line:28] INFO ===检查跳过按钮===
+2018-09-11 12:05:45,111 common_fun.py[line:34] INFO 点击跳过按钮
+2018-09-11 13:15:35,109 desired_caps.py[line:36] INFO start app...
+2018-09-11 13:15:42,268 common_fun.py[line:18] INFO ====检查是否升级====
+2018-09-11 13:15:42,933 common_fun.py[line:25] INFO ===点击升级按钮===
+2018-09-11 13:15:43,315 BaseView.py[line:57] INFO 向左滑动
+2018-09-11 13:15:44,260 common_fun.py[line:28] INFO ===检查跳过按钮===
+2018-09-11 13:15:45,535 common_fun.py[line:34] INFO 点击跳过按钮
+2018-09-11 13:18:41,715 desired_caps.py[line:36] INFO start app...
+2018-09-11 13:18:48,773 common_fun.py[line:18] INFO ====检查是否升级====
+2018-09-11 13:18:49,500 common_fun.py[line:25] INFO ===点击升级按钮===
+2018-09-11 13:18:49,841 BaseView.py[line:57] INFO 向左滑动
+2018-09-11 13:18:50,773 common_fun.py[line:28] INFO ===检查跳过按钮===
+2018-09-11 13:18:52,153 common_fun.py[line:34] INFO 点击跳过按钮
+2018-09-11 13:20:50,026 desired_caps.py[line:36] INFO start app...
+2018-09-11 13:20:57,000 common_fun.py[line:18] INFO ====检查是否升级====
+2018-09-11 13:20:57,486 common_fun.py[line:25] INFO ===点击升级按钮===
+2018-09-11 13:20:58,344 BaseView.py[line:57] INFO 向左滑动
+2018-09-11 13:20:59,275 common_fun.py[line:28] INFO ===检查跳过按钮===
+2018-09-11 13:21:00,601 common_fun.py[line:34] INFO 点击跳过按钮
+2018-09-11 13:22:26,231 desired_caps.py[line:36] INFO start app...
+2018-09-11 13:22:33,159 common_fun.py[line:18] INFO ====检查是否升级====
+2018-09-11 13:22:33,890 common_fun.py[line:25] INFO ===点击升级按钮===
+2018-09-11 13:22:34,294 BaseView.py[line:57] INFO 向左滑动
+2018-09-11 13:22:35,223 common_fun.py[line:28] INFO ===检查跳过按钮===
+2018-09-11 13:22:36,491 common_fun.py[line:34] INFO 点击跳过按钮
+2018-09-11 13:23:57,057 desired_caps.py[line:36] INFO start app...
+2018-09-11 13:24:04,047 common_fun.py[line:18] INFO ====检查是否升级====
+2018-09-11 13:24:04,691 common_fun.py[line:25] INFO ===点击升级按钮===
+2018-09-11 13:24:05,187 BaseView.py[line:57] INFO 向左滑动
+2018-09-11 13:24:06,123 common_fun.py[line:28] INFO ===检查跳过按钮===
+2018-09-11 13:24:07,417 common_fun.py[line:34] INFO 点击跳过按钮
+2018-09-11 13:26:22,816 desired_caps.py[line:36] INFO start app...
+2018-09-11 13:26:30,044 common_fun.py[line:18] INFO ====检查是否升级====
+2018-09-11 13:26:30,638 common_fun.py[line:25] INFO ===点击升级按钮===
+2018-09-11 13:26:31,043 BaseView.py[line:59] INFO 向左滑动
+2018-09-11 13:26:31,972 common_fun.py[line:28] INFO ===检查跳过按钮===
+2018-09-11 13:26:33,241 common_fun.py[line:34] INFO 点击跳过按钮
+2018-09-11 13:27:22,765 desired_caps.py[line:36] INFO start app...
+2018-09-11 13:27:31,534 common_fun.py[line:18] INFO ====检查是否升级====
+2018-09-11 13:27:32,215 common_fun.py[line:25] INFO ===点击升级按钮===
+2018-09-11 13:27:32,574 BaseView.py[line:59] INFO 向左滑动
+2018-09-11 13:27:33,507 common_fun.py[line:28] INFO ===检查跳过按钮===
+2018-09-11 13:27:34,781 common_fun.py[line:34] INFO 点击跳过按钮
+2018-09-11 13:34:44,387 desired_caps.py[line:37] INFO start app...
+2018-09-11 13:34:58,883 common_fun.py[line:18] INFO ====检查是否升级====
+2018-09-11 13:34:59,544 common_fun.py[line:25] INFO ===点击升级按钮===
+2018-09-11 13:34:59,576 BaseView.py[line:59] INFO 向左滑动
+2018-09-11 13:35:39,079 desired_caps.py[line:37] INFO start app...
+2018-09-11 13:35:52,282 common_fun.py[line:18] INFO ====检查是否升级====
+2018-09-11 13:35:52,882 common_fun.py[line:25] INFO ===点击升级按钮===
+2018-09-11 13:35:52,907 BaseView.py[line:59] INFO 向左滑动
+2018-09-11 13:38:09,640 desired_caps.py[line:37] INFO start app...
+2018-09-11 13:38:23,916 common_fun.py[line:18] INFO ====检查是否升级====
+2018-09-11 13:38:24,593 common_fun.py[line:25] INFO ===点击升级按钮===
+2018-09-11 13:38:24,626 BaseView.py[line:59] INFO 向左滑动
+2018-09-11 13:38:26,460 common_fun.py[line:28] INFO ===检查跳过按钮===
+2018-09-11 13:38:26,982 common_fun.py[line:34] INFO 点击跳过按钮
+2018-09-11 13:39:27,002 desired_caps.py[line:37] INFO start app...
+2018-09-11 13:39:38,802 desired_caps.py[line:37] INFO start app...
+2018-09-11 13:39:51,893 common_fun.py[line:18] INFO ====检查是否升级====
+2018-09-11 13:39:52,564 common_fun.py[line:25] INFO ===点击升级按钮===
+2018-09-11 13:39:52,591 BaseView.py[line:59] INFO 向左滑动
+2018-09-11 13:39:54,410 common_fun.py[line:28] INFO ===检查跳过按钮===
+2018-09-11 13:39:54,930 common_fun.py[line:34] INFO 点击跳过按钮
+2018-09-11 13:40:12,033 desired_caps.py[line:37] INFO start app...
+2018-09-11 13:40:26,319 common_fun.py[line:18] INFO ====检查是否升级====
+2018-09-11 13:40:27,018 common_fun.py[line:25] INFO ===点击升级按钮===
+2018-09-11 13:40:27,040 BaseView.py[line:59] INFO 向左滑动
+2018-09-11 13:40:39,368 desired_caps.py[line:37] INFO start app...
+2018-09-11 13:40:53,152 common_fun.py[line:18] INFO ====检查是否升级====
+2018-09-11 13:40:53,792 common_fun.py[line:25] INFO ===点击升级按钮===
+2018-09-11 13:40:53,821 BaseView.py[line:59] INFO 向左滑动
+2018-09-11 13:40:55,627 common_fun.py[line:28] INFO ===检查跳过按钮===
+2018-09-11 13:40:56,146 common_fun.py[line:34] INFO 点击跳过按钮
+2018-09-11 13:41:43,171 desired_caps.py[line:37] INFO start app...
+2018-09-11 13:41:56,804 common_fun.py[line:18] INFO ====检查是否升级====
+2018-09-11 13:41:57,424 common_fun.py[line:25] INFO ===点击升级按钮===
+2018-09-11 13:41:57,451 BaseView.py[line:59] INFO 向左滑动
+2018-09-11 13:41:59,275 common_fun.py[line:28] INFO ===检查跳过按钮===
+2018-09-11 13:41:59,795 common_fun.py[line:34] INFO 点击跳过按钮
+2018-09-11 13:42:03,458 LoginView.py[line:38] INFO <appium.webdriver.webelement.WebElement (session="2354295c-7323-46bb-b53a-2e9047230bed", element="8598056f-3f93-490b-ac47-47e908fdebb7")>
+2018-09-11 20:55:26,381 desired_caps.py[line:37] INFO start app...
+2018-09-11 20:55:52,459 common_fun.py[line:18] INFO ====检查是否升级====
+2018-09-11 20:55:53,135 common_fun.py[line:25] INFO ===点击升级按钮===
+2018-09-11 20:55:53,209 BaseView.py[line:59] INFO 向左滑动
+2018-09-11 20:55:55,156 common_fun.py[line:28] INFO ===检查跳过按钮===
+2018-09-11 20:55:55,230 common_fun.py[line:34] INFO 点击跳过按钮
+2018-09-11 20:55:59,330 LoginView.py[line:38] INFO 忘记密码？
+2018-09-11 20:56:36,074 desired_caps.py[line:37] INFO start app...
+2018-09-11 20:57:05,163 desired_caps.py[line:37] INFO start app...
+2018-09-11 20:57:25,837 common_fun.py[line:18] INFO ====检查是否升级====
+2018-09-11 20:57:26,434 common_fun.py[line:25] INFO ===点击升级按钮===
+2018-09-11 20:57:26,484 BaseView.py[line:59] INFO 向左滑动
+2018-09-11 20:57:28,404 common_fun.py[line:28] INFO ===检查跳过按钮===
+2018-09-11 20:57:28,928 common_fun.py[line:34] INFO 点击跳过按钮
+2018-09-11 20:57:33,032 LoginView.py[line:38] INFO 用户名或密码错误，你还可以尝试2次
+2018-09-11 21:16:48,639 desired_caps.py[line:37] INFO start app...
+2018-09-11 21:17:10,375 common_fun.py[line:18] INFO ====检查是否升级====
+2018-09-11 21:17:14,533 common_fun.py[line:25] INFO ===点击升级按钮===
+2018-09-11 21:17:14,588 BaseView.py[line:87] INFO 向左滑动
+2018-09-11 21:17:18,928 desired_caps.py[line:37] INFO start app...
+2018-09-11 21:17:42,040 common_fun.py[line:18] INFO ====检查是否升级====
+2018-09-11 21:17:42,711 common_fun.py[line:25] INFO ===点击升级按钮===
+2018-09-11 21:17:42,762 BaseView.py[line:87] INFO 向左滑动
+2018-09-11 21:17:44,708 common_fun.py[line:28] INFO ===检查跳过按钮===
+2018-09-11 21:17:45,297 common_fun.py[line:34] INFO 点击跳过按钮
+2018-09-11 21:17:48,665 BaseView.py[line:49] INFO 匹配部分值
+2018-09-11 21:17:49,361 BaseView.py[line:57] INFO 匹配成功
+2018-09-11 21:52:09,157 desired_caps.py[line:37] INFO start app...
+2018-09-11 21:52:31,759 common_fun.py[line:19] INFO ====检查是否升级====
+2018-09-11 21:52:32,443 common_fun.py[line:26] INFO ===点击升级按钮===
+2018-09-11 21:52:32,506 BaseView.py[line:87] INFO 向左滑动
+2018-09-11 21:52:35,784 desired_caps.py[line:37] INFO start app...
+2018-09-11 21:52:57,704 common_fun.py[line:19] INFO ====检查是否升级====
+2018-09-11 21:53:01,790 common_fun.py[line:26] INFO ===点击升级按钮===
+2018-09-11 21:53:01,854 BaseView.py[line:87] INFO 向左滑动
+2018-09-11 21:53:03,766 common_fun.py[line:29] INFO ===检查跳过按钮===
+2018-09-11 21:53:04,327 common_fun.py[line:35] INFO 点击跳过按钮
+2018-09-11 21:53:04,399 LoginView.py[line:27] INFO 输入用户名
+2018-09-11 21:53:06,449 LoginView.py[line:29] INFO 输入密码
+2018-09-11 21:53:07,608 LoginView.py[line:31] INFO 点击登陆
+2018-09-11 21:53:08,196 LoginView.py[line:51] INFO 检查登陆后的广告
+2018-09-11 21:53:16,802 LoginView.py[line:55] INFO 登陆后的没有广告
+2018-09-11 21:53:16,802 LoginView.py[line:38] INFO 检查是否登陆成功
+2018-09-11 21:53:24,931 LoginView.py[line:43] ERROR 登陆失败
+2018-09-11 21:53:24,932 BaseView.py[line:33] INFO get screenshot:C:\Users\Mcen\学习\python\Text_Python\KybtestProject/screenshots/20180911215324_登陆失败.png 
+2018-09-11 21:53:25,313 common_fun.py[line:19] INFO ====检查是否升级====
+2018-09-11 21:53:33,351 common_fun.py[line:24] ERROR ===没有找到元素===
+2018-09-11 21:53:33,357 BaseView.py[line:87] INFO 向左滑动
+2018-09-11 21:53:35,047 common_fun.py[line:29] INFO ===检查跳过按钮===
+2018-09-11 21:53:43,593 common_fun.py[line:33] INFO 无跳过按钮元素!
+2018-09-11 21:53:43,593 LoginView.py[line:27] INFO 输入用户名
+2018-09-11 21:53:44,194 LoginView.py[line:29] INFO 输入密码
+2018-09-11 21:53:45,310 LoginView.py[line:31] INFO 点击登陆
+2018-09-11 21:53:45,866 LoginView.py[line:51] INFO 检查登陆后的广告
+2018-09-11 21:53:50,022 LoginView.py[line:57] INFO 点击登陆后的广告
+2018-09-11 21:53:50,065 LoginView.py[line:38] INFO 检查是否登陆成功
+2018-09-11 21:53:50,993 LoginView.py[line:47] INFO mmoo12--登陆成功
+2018-09-11 22:12:52,736 unitStartEnd.py[line:13] INFO =====setUp======
+2018-09-11 22:12:52,739 desired_caps.py[line:37] INFO start app...
+2018-09-11 22:13:07,237 unitStartEnd.py[line:13] INFO =====setUp======
+2018-09-11 22:13:07,239 desired_caps.py[line:37] INFO start app...
+2018-09-11 22:13:09,677 unitStartEnd.py[line:13] INFO =====setUp======
+2018-09-11 22:13:09,680 desired_caps.py[line:37] INFO start app...
+2018-09-11 22:13:11,315 unitStartEnd.py[line:13] INFO =====setUp======
+2018-09-11 22:13:11,319 desired_caps.py[line:37] INFO start app...
+2018-09-11 22:13:12,762 unitStartEnd.py[line:13] INFO =====setUp======
+2018-09-11 22:13:12,766 desired_caps.py[line:37] INFO start app...
+2018-09-11 22:14:13,402 unitStartEnd.py[line:13] INFO =====setUp======
+2018-09-11 22:14:13,405 desired_caps.py[line:37] INFO start app...
+2018-09-11 22:14:42,183 unitStartEnd.py[line:13] INFO =====setUp======
+2018-09-11 22:14:42,185 desired_caps.py[line:37] INFO start app...
+2018-09-11 22:16:35,387 unitStartEnd.py[line:13] INFO =====setUp======
+2018-09-11 22:16:35,389 desired_caps.py[line:37] INFO start app...
+2018-09-11 22:16:58,789 test_login.py[line:17] INFO =====test_login_mmoo=======
+2018-09-11 22:16:58,790 common_fun.py[line:19] INFO ====检查是否升级====
+2018-09-11 22:16:59,337 common_fun.py[line:26] INFO ===点击升级按钮===
+2018-09-11 22:16:59,400 BaseView.py[line:87] INFO 向左滑动
+2018-09-11 22:17:00,306 unitStartEnd.py[line:17] INFO =====tearDown======
+2018-09-11 22:17:38,582 unitStartEnd.py[line:13] INFO =====setUp======
+2018-09-11 22:17:38,584 desired_caps.py[line:37] INFO start app...
+2018-09-11 22:17:59,229 test_login.py[line:17] INFO =====test_login_mmoo=======
+2018-09-11 22:17:59,229 common_fun.py[line:19] INFO ====检查是否升级====
+2018-09-11 22:17:59,939 common_fun.py[line:26] INFO ===点击升级按钮===
+2018-09-11 22:18:00,002 BaseView.py[line:87] INFO 向左滑动
+2018-09-11 22:18:01,987 common_fun.py[line:29] INFO ===检查跳过按钮===
+2018-09-11 22:18:02,542 common_fun.py[line:35] INFO 点击跳过按钮
+2018-09-11 22:18:02,586 LoginView.py[line:27] INFO 输入用户名
+2018-09-11 22:18:04,211 LoginView.py[line:29] INFO 输入密码
+2018-09-11 22:18:05,317 unitStartEnd.py[line:17] INFO =====tearDown======
+2018-09-11 22:27:26,883 unitStartEnd.py[line:13] INFO =====setUp======
+2018-09-11 22:27:26,886 desired_caps.py[line:37] INFO start app...
+2018-09-11 22:27:48,938 test_login.py[line:17] INFO =====test_login_mmoo=======
+2018-09-11 22:27:48,938 common_fun.py[line:19] INFO ====检查是否升级====
+2018-09-11 22:27:49,593 common_fun.py[line:26] INFO ===点击升级按钮===
+2018-09-11 22:27:49,666 BaseView.py[line:87] INFO 向左滑动
+2018-09-11 22:27:51,637 common_fun.py[line:29] INFO ===检查跳过按钮===
+2018-09-11 22:27:52,191 common_fun.py[line:35] INFO 点击跳过按钮
+2018-09-11 22:27:52,235 LoginView.py[line:27] INFO 输入用户名
+2018-09-11 22:27:53,720 LoginView.py[line:29] INFO 输入密码
+2018-09-11 22:27:54,842 LoginView.py[line:31] INFO 点击登陆
+2018-09-11 22:27:55,387 LoginView.py[line:51] INFO 检查登陆后的广告
+2018-09-11 22:27:59,629 LoginView.py[line:57] INFO 点击登陆后的广告
+2018-09-11 22:27:59,666 LoginView.py[line:38] INFO 检查是否登陆成功
+2018-09-11 22:28:00,603 LoginView.py[line:47] INFO mmoo12--登陆成功
+2018-09-11 22:28:00,603 unitStartEnd.py[line:17] INFO =====tearDown======
+2018-09-11 22:28:36,737 unitStartEnd.py[line:13] INFO =====setUp======
+2018-09-11 22:28:36,739 desired_caps.py[line:37] INFO start app...
+2018-09-11 22:28:58,577 test_login.py[line:17] INFO =====test_login_mmoo=======
+2018-09-11 22:28:58,578 common_fun.py[line:19] INFO ====检查是否升级====
+2018-09-11 22:28:59,244 common_fun.py[line:26] INFO ===点击升级按钮===
+2018-09-11 22:28:59,296 common_fun.py[line:29] INFO ===检查跳过按钮===
+2018-09-11 22:29:00,245 common_fun.py[line:35] INFO 点击跳过按钮
+2018-09-11 22:29:00,281 LoginView.py[line:27] INFO 输入用户名
+2018-09-11 22:29:01,983 LoginView.py[line:29] INFO 输入密码
+2018-09-11 22:29:03,112 LoginView.py[line:31] INFO 点击登陆
+2018-09-11 22:29:03,663 LoginView.py[line:51] INFO 检查登陆后的广告
+2018-09-11 22:29:05,379 LoginView.py[line:55] INFO 登陆后的没有广告
+2018-09-11 22:29:05,379 LoginView.py[line:38] INFO 检查是否登陆成功
+2018-09-11 22:29:05,418 LoginView.py[line:43] ERROR 登陆失败
+2018-09-11 22:29:05,419 BaseView.py[line:33] INFO get screenshot:C:\Users\Mcen\学习\python\Text_Python\KybtestProject/screenshots/20180911222905_登陆失败.png 
+2018-09-11 22:29:05,449 unitStartEnd.py[line:17] INFO =====tearDown======
+2018-09-11 22:40:06,120 unitStartEnd.py[line:13] INFO =====setUp======
+2018-09-11 22:40:06,126 desired_caps.py[line:37] INFO start app...
+2018-09-11 22:40:29,506 test_login.py[line:22] INFO =====test_login_mmoo=======
+2018-09-11 22:40:29,506 common_fun.py[line:19] INFO ====检查是否升级====
+2018-09-11 22:40:30,236 common_fun.py[line:26] INFO ===点击升级按钮===
+2018-09-11 22:40:30,283 common_fun.py[line:29] INFO ===检查跳过按钮===
+2018-09-11 22:40:31,188 common_fun.py[line:35] INFO 点击跳过按钮
+2018-09-11 22:40:31,255 LoginView.py[line:27] INFO 输入用户名
+2018-09-11 22:40:33,311 LoginView.py[line:29] INFO 输入密码
+2018-09-11 22:40:34,444 LoginView.py[line:31] INFO 点击登陆
+2018-09-11 22:40:35,049 LoginView.py[line:51] INFO 检查登陆后的广告
+2018-09-11 22:40:39,080 LoginView.py[line:57] INFO 点击登陆后的广告
+2018-09-11 22:40:39,122 LoginView.py[line:38] INFO 检查是否登陆成功
+2018-09-11 22:40:40,074 LoginView.py[line:47] INFO mmoo12--登陆成功
+2018-09-11 22:40:40,074 unitStartEnd.py[line:17] INFO =====tearDown======
+2018-09-11 22:40:44,865 unitStartEnd.py[line:13] INFO =====setUp======
+2018-09-11 22:40:44,873 desired_caps.py[line:37] INFO start app...
+2018-09-11 22:41:05,302 test_login.py[line:22] INFO =====test_login_mmoo=======
+2018-09-11 22:41:05,302 common_fun.py[line:19] INFO ====检查是否升级====
+2018-09-11 22:41:06,543 common_fun.py[line:26] INFO ===点击升级按钮===
+2018-09-11 22:41:06,568 common_fun.py[line:29] INFO ===检查跳过按钮===
+2018-09-11 22:41:07,430 common_fun.py[line:35] INFO 点击跳过按钮
+2018-09-11 22:41:07,470 LoginView.py[line:27] INFO 输入用户名
+2018-09-11 22:41:09,627 LoginView.py[line:29] INFO 输入密码
+2018-09-11 22:41:10,758 LoginView.py[line:31] INFO 点击登陆
+2018-09-11 22:41:11,300 LoginView.py[line:51] INFO 检查登陆后的广告
+2018-09-11 22:41:19,502 LoginView.py[line:55] INFO 登陆后的没有广告
+2018-09-11 22:41:19,502 LoginView.py[line:38] INFO 检查是否登陆成功
+2018-09-11 22:41:27,534 LoginView.py[line:43] ERROR 登陆失败
+2018-09-11 22:41:27,535 BaseView.py[line:33] INFO get screenshot:C:\Users\Mcen\学习\python\Text_Python\KybtestProject/screenshots/20180911224127_登陆失败.png 
+2018-09-11 22:41:27,919 unitStartEnd.py[line:17] INFO =====tearDown======
+2018-09-11 22:43:54,786 unitStartEnd.py[line:13] INFO =====setUp======
+2018-09-11 22:43:54,788 desired_caps.py[line:37] INFO start app...
+2018-09-11 22:44:14,947 test_login.py[line:22] INFO =====test_login_mmoo=======
+2018-09-11 22:44:14,948 common_fun.py[line:19] INFO ====检查是否升级====
+2018-09-11 22:44:18,280 common_fun.py[line:26] INFO ===点击升级按钮===
+2018-09-11 22:44:18,310 common_fun.py[line:29] INFO ===检查跳过按钮===
+2018-09-11 22:44:19,323 common_fun.py[line:35] INFO 点击跳过按钮
+2018-09-11 22:44:19,357 LoginView.py[line:27] INFO 输入用户名
+2018-09-11 22:44:20,982 LoginView.py[line:29] INFO 输入密码
+2018-09-11 22:44:22,108 LoginView.py[line:31] INFO 点击登陆
+2018-09-11 22:44:22,629 LoginView.py[line:51] INFO 检查登陆后的广告
+2018-09-11 22:44:28,628 LoginView.py[line:57] INFO 点击登陆后的广告
+2018-09-11 22:44:28,670 LoginView.py[line:38] INFO 检查是否登陆成功
+2018-09-11 22:44:29,555 LoginView.py[line:47] INFO mmoo12--登陆成功
+2018-09-11 22:44:29,555 unitStartEnd.py[line:17] INFO =====tearDown======
+2018-09-11 22:44:34,256 unitStartEnd.py[line:13] INFO =====setUp======
+2018-09-11 22:44:34,268 desired_caps.py[line:37] INFO start app...
+2018-09-11 22:44:54,982 test_login.py[line:22] INFO =====test_login_mmoo=======
+2018-09-11 22:44:54,982 common_fun.py[line:19] INFO ====检查是否升级====
+2018-09-11 22:44:55,683 common_fun.py[line:26] INFO ===点击升级按钮===
+2018-09-11 22:44:55,723 common_fun.py[line:29] INFO ===检查跳过按钮===
+2018-09-11 22:44:56,518 common_fun.py[line:35] INFO 点击跳过按钮
+2018-09-11 22:44:56,555 LoginView.py[line:27] INFO 输入用户名
+2018-09-11 22:44:58,721 LoginView.py[line:29] INFO 输入密码
+2018-09-11 22:44:59,841 LoginView.py[line:31] INFO 点击登陆
+2018-09-11 22:45:00,565 LoginView.py[line:51] INFO 检查登陆后的广告
+2018-09-11 22:45:08,644 LoginView.py[line:55] INFO 登陆后的没有广告
+2018-09-11 22:45:08,644 LoginView.py[line:38] INFO 检查是否登陆成功
+2018-09-11 22:45:17,187 LoginView.py[line:43] ERROR 登陆失败
+2018-09-11 22:45:17,187 BaseView.py[line:33] INFO get screenshot:C:\Users\Mcen\学习\python\Text_Python\KybtestProject/screenshots/20180911224517_登陆失败.png 
+2018-09-11 22:45:17,546 unitStartEnd.py[line:17] INFO =====tearDown======
+2018-09-11 22:45:31,974 unitStartEnd.py[line:13] INFO =====setUp======
+2018-09-11 22:45:31,977 desired_caps.py[line:37] INFO start app...
+2018-09-11 22:48:59,518 unitStartEnd.py[line:13] INFO =====setUp======
+2018-09-11 22:48:59,521 desired_caps.py[line:37] INFO start app...
+2018-09-11 22:49:20,188 test_login.py[line:31] INFO =====test_login_mmoo=======
+2018-09-11 22:49:20,188 common_fun.py[line:19] INFO ====检查是否升级====
+2018-09-11 22:49:20,848 common_fun.py[line:26] INFO ===点击升级按钮===
+2018-09-11 22:49:20,893 common_fun.py[line:29] INFO ===检查跳过按钮===
+2018-09-11 22:49:21,860 common_fun.py[line:35] INFO 点击跳过按钮
+2018-09-11 22:49:21,895 LoginView.py[line:27] INFO 输入用户名
+2018-09-11 22:49:23,528 LoginView.py[line:29] INFO 输入密码
+2018-09-11 22:49:24,638 LoginView.py[line:31] INFO 点击登陆
+2018-09-11 22:49:25,189 LoginView.py[line:51] INFO 检查登陆后的广告
+2018-09-11 22:49:33,334 LoginView.py[line:55] INFO 登陆后的没有广告
+2018-09-11 22:49:33,335 LoginView.py[line:38] INFO 检查是否登陆成功
+2018-09-11 22:49:41,873 LoginView.py[line:43] ERROR 登陆失败
+2018-09-11 22:49:41,874 BaseView.py[line:33] INFO get screenshot:C:\Users\Mcen\学习\python\Text_Python\KybtestProject/screenshots/20180911224941_登陆失败.png 
+2018-09-11 22:49:42,230 unitStartEnd.py[line:17] INFO =====tearDown======
+2018-09-11 22:49:46,908 unitStartEnd.py[line:13] INFO =====setUp======
+2018-09-11 22:49:46,918 desired_caps.py[line:37] INFO start app...
+2018-09-11 22:50:09,944 test_login.py[line:21] INFO =====test_login_mmoo=======
+2018-09-11 22:50:09,945 common_fun.py[line:19] INFO ====检查是否升级====
+2018-09-11 22:50:10,614 common_fun.py[line:26] INFO ===点击升级按钮===
+2018-09-11 22:50:10,655 common_fun.py[line:29] INFO ===检查跳过按钮===
+2018-09-11 22:50:11,461 common_fun.py[line:35] INFO 点击跳过按钮
+2018-09-11 22:50:11,496 LoginView.py[line:27] INFO 输入用户名
+2018-09-11 22:50:13,183 LoginView.py[line:29] INFO 输入密码
+2018-09-11 22:50:14,322 LoginView.py[line:31] INFO 点击登陆
+2018-09-11 22:50:14,888 LoginView.py[line:51] INFO 检查登陆后的广告
+2018-09-11 22:50:19,643 LoginView.py[line:57] INFO 点击登陆后的广告
+2018-09-11 22:50:19,686 LoginView.py[line:38] INFO 检查是否登陆成功
+2018-09-11 22:50:20,961 LoginView.py[line:47] INFO mmoo12--登陆成功
+2018-09-11 22:50:20,961 unitStartEnd.py[line:17] INFO =====tearDown======
+2018-09-11 22:51:47,176 unitStartEnd.py[line:13] INFO =====setUp======
+2018-09-11 22:51:47,178 desired_caps.py[line:37] INFO start app...
+2018-09-11 22:52:10,318 test_login.py[line:31] INFO =====test_login_mmoo=======
+2018-09-11 22:52:10,318 common_fun.py[line:19] INFO ====检查是否升级====
+2018-09-11 22:52:15,695 common_fun.py[line:26] INFO ===点击升级按钮===
+2018-09-11 22:52:15,734 common_fun.py[line:29] INFO ===检查跳过按钮===
+2018-09-11 22:52:16,584 common_fun.py[line:35] INFO 点击跳过按钮
+2018-09-11 22:52:16,614 LoginView.py[line:27] INFO 输入用户名
+2018-09-11 22:52:18,763 LoginView.py[line:29] INFO 输入密码
+2018-09-11 22:52:19,870 LoginView.py[line:31] INFO 点击登陆
+2018-09-11 22:52:20,414 LoginView.py[line:51] INFO 检查登陆后的广告
+2018-09-11 22:52:28,508 LoginView.py[line:55] INFO 登陆后的没有广告
+2018-09-11 22:52:28,508 LoginView.py[line:38] INFO 检查是否登陆成功
+2018-09-11 22:52:37,031 LoginView.py[line:43] ERROR 登陆失败
+2018-09-11 22:52:37,032 BaseView.py[line:33] INFO get screenshot:C:\Users\Mcen\学习\python\Text_Python\KybtestProject/screenshots/20180911225237_登陆失败.png 
+2018-09-11 22:52:37,396 unitStartEnd.py[line:17] INFO =====tearDown======
+2018-09-11 22:52:42,263 unitStartEnd.py[line:13] INFO =====setUp======
+2018-09-11 22:52:42,269 desired_caps.py[line:37] INFO start app...
+2018-09-11 22:53:04,939 test_login.py[line:21] INFO =====test_login_mmoo=======
+2018-09-11 22:53:04,939 common_fun.py[line:19] INFO ====检查是否升级====
+2018-09-11 22:53:05,405 common_fun.py[line:26] INFO ===点击升级按钮===
+2018-09-11 22:53:05,447 common_fun.py[line:29] INFO ===检查跳过按钮===
+2018-09-11 22:53:06,311 common_fun.py[line:35] INFO 点击跳过按钮
+2018-09-11 22:53:06,360 LoginView.py[line:27] INFO 输入用户名
+2018-09-11 22:53:08,420 LoginView.py[line:29] INFO 输入密码
+2018-09-11 22:53:09,590 LoginView.py[line:31] INFO 点击登陆
+2018-09-11 22:53:10,163 LoginView.py[line:51] INFO 检查登陆后的广告
+2018-09-11 22:53:14,421 LoginView.py[line:57] INFO 点击登陆后的广告
+2018-09-11 22:53:14,461 LoginView.py[line:38] INFO 检查是否登陆成功
+2018-09-11 22:53:15,381 LoginView.py[line:47] INFO mmoo12--登陆成功
+2018-09-11 22:53:15,381 unitStartEnd.py[line:17] INFO =====tearDown======
+2018-09-12 10:17:38,084 unitStartEnd.py[line:13] INFO =====setUp======
+2018-09-12 10:17:38,091 desired_caps.py[line:37] INFO start app...
+2018-09-12 10:17:55,174 test_login.py[line:21] INFO =====test_login_mmoo=======
+2018-09-12 10:17:55,175 common_fun.py[line:19] INFO ====检查是否升级====
+2018-09-12 10:17:55,757 common_fun.py[line:26] INFO ===点击升级按钮===
+2018-09-12 10:17:55,800 common_fun.py[line:29] INFO ===检查跳过按钮===
+2018-09-12 10:17:56,614 common_fun.py[line:35] INFO 点击跳过按钮
+2018-09-12 10:17:56,638 LoginPage.py[line:27] INFO 输入用户名
+2018-09-12 10:17:58,281 LoginPage.py[line:29] INFO 输入密码
+2018-09-12 10:17:59,361 LoginPage.py[line:31] INFO 点击登陆
+2018-09-12 10:17:59,893 LoginPage.py[line:51] INFO 检查登陆后的广告
+2018-09-12 10:18:08,349 LoginPage.py[line:55] INFO 登陆后的没有广告
+2018-09-12 10:18:08,350 LoginPage.py[line:38] INFO 检查是否登陆成功
+2018-09-12 10:18:16,644 LoginPage.py[line:47] INFO mmoo12--登陆成功
+2018-09-12 10:18:16,644 unitStartEnd.py[line:17] INFO =====tearDown======
+2018-09-19 21:55:59,375 desired_caps.py[line:37] INFO start app...
+2018-09-19 21:58:33,187 desired_caps.py[line:37] INFO start app...
+2018-09-19 22:00:19,070 desired_caps.py[line:37] INFO start app...
+2018-09-19 22:04:14,122 desired_caps.py[line:37] INFO start app...
+2018-09-19 22:19:05,349 desired_caps.py[line:37] INFO start app...
+2018-09-19 22:19:45,343 desired_caps.py[line:37] INFO start app...
+2018-09-19 22:24:30,139 desired_caps.py[line:37] INFO start app...
+2018-09-19 22:24:57,670 desired_caps.py[line:37] INFO start app...
+2018-09-19 22:28:04,695 desired_caps.py[line:37] INFO start app...
+2018-09-19 22:29:53,558 desired_caps.py[line:37] INFO start app...
+2018-09-19 22:31:26,352 desired_caps.py[line:37] INFO start app...
+2018-09-19 22:32:02,678 desired_caps.py[line:37] INFO start app...
+2018-09-19 22:37:23,809 desired_caps.py[line:37] INFO start app...
+2018-09-19 22:38:15,058 desired_caps.py[line:37] INFO start app...
+2018-09-19 22:48:24,858 desired_caps.py[line:37] INFO start app...
+2018-10-19 11:28:02,056 desired_caps.py[line:37] INFO start app...
+2018-10-23 17:16:52,405 unitStartEnd.py[line:13] INFO =====setUp======
+2018-10-23 17:16:52,411 desired_caps.py[line:37] INFO start app...
+2018-10-23 17:18:29,455 desired_caps.py[line:37] INFO start app...
+2018-10-23 17:18:51,291 unitStartEnd.py[line:13] INFO =====setUp======
+2018-10-23 17:18:51,294 desired_caps.py[line:37] INFO start app...
+2018-10-23 17:19:01,585 test_login.py[line:21] INFO =====test_login_mmoo=======
+2018-10-23 17:19:01,585 common_fun.py[line:19] INFO ====检查是否升级====
+2018-10-23 17:19:02,260 common_fun.py[line:26] INFO ===点击升级按钮===
+2018-10-23 17:19:02,616 common_fun.py[line:29] INFO ===检查跳过按钮===
+2018-10-23 17:19:03,172 common_fun.py[line:35] INFO 点击跳过按钮
+2018-10-23 17:19:03,514 LoginPage.py[line:27] INFO 输入用户名:mmoo12
+2018-10-23 17:19:08,955 LoginPage.py[line:29] INFO 输入密码q123456
+2018-10-23 17:19:16,324 LoginPage.py[line:31] INFO 点击登陆
+2018-10-23 17:19:16,967 LoginPage.py[line:60] INFO 检查登陆后的广告
+2018-10-23 17:19:19,066 LoginPage.py[line:66] INFO 点击登陆后的广告
+2018-10-23 17:19:21,765 LoginPage.py[line:38] INFO 检查是否登陆成功
+2018-10-23 17:19:22,993 LoginPage.py[line:47] INFO mmoo12--登陆成功
+2018-10-23 17:19:22,993 unitStartEnd.py[line:17] INFO =====tearDown======
+2018-10-23 17:21:48,564 unitStartEnd.py[line:13] INFO =====setUp======
+2018-10-23 17:21:48,566 desired_caps.py[line:37] INFO start app...
+2018-10-23 17:21:56,231 test_login.py[line:21] INFO =====test_login_mmoo=======
+2018-10-23 17:21:56,231 common_fun.py[line:19] INFO ====检查是否升级====
+2018-10-23 17:21:57,226 common_fun.py[line:26] INFO ===点击升级按钮===
+2018-10-23 17:21:58,065 common_fun.py[line:29] INFO ===检查跳过按钮===
+2018-10-23 17:21:58,612 common_fun.py[line:35] INFO 点击跳过按钮
+2018-10-23 17:21:58,950 LoginPage.py[line:27] INFO 输入用户名:mmoo12
+2018-10-23 17:22:04,235 LoginPage.py[line:29] INFO 输入密码q123456
+2018-10-23 17:22:11,606 LoginPage.py[line:31] INFO 点击登陆
+2018-10-23 17:22:12,286 LoginPage.py[line:60] INFO 检查登陆后的广告
+2018-10-23 17:22:20,678 LoginPage.py[line:64] INFO 登陆后的没有广告
+2018-10-23 17:22:20,678 LoginPage.py[line:38] INFO 检查是否登陆成功
+2018-10-23 17:22:29,243 LoginPage.py[line:43] ERROR 登陆失败
+2018-10-23 17:22:29,244 BaseView.py[line:42] INFO get screenshot:C:\Users\Mcen\学习\python\Text_Python\KybtestProject/screenshots/20181023172229_登陆失败.png 
+2018-10-23 17:22:30,059 unitStartEnd.py[line:17] INFO =====tearDown======
+2018-10-23 17:25:28,697 unitStartEnd.py[line:13] INFO =====setUp======
+2018-10-23 17:25:28,699 desired_caps.py[line:37] INFO start app...
+2018-10-23 17:25:36,959 test_login.py[line:21] INFO =====test_login_mmoo=======
+2018-10-23 17:25:36,959 common_fun.py[line:19] INFO ====检查是否升级====
+2018-10-23 17:25:37,646 common_fun.py[line:26] INFO ===点击升级按钮===
+2018-10-23 17:25:38,059 common_fun.py[line:29] INFO ===检查跳过按钮===
+2018-10-23 17:25:38,648 common_fun.py[line:35] INFO 点击跳过按钮
+2018-10-23 17:25:38,970 LoginPage.py[line:27] INFO 输入用户名:mmoo12
+2018-10-23 17:25:44,804 LoginPage.py[line:29] INFO 输入密码q123456
+2018-10-23 17:25:51,971 LoginPage.py[line:31] INFO 点击登陆
+2018-10-23 17:25:52,618 LoginPage.py[line:60] INFO 检查登陆后的广告
+2018-10-23 17:25:57,516 LoginPage.py[line:66] INFO 点击登陆后的广告
+2018-10-23 17:25:57,969 LoginPage.py[line:38] INFO 检查是否登陆成功
+2018-10-23 17:25:59,577 LoginPage.py[line:47] INFO mmoo12--登陆成功
+2018-10-23 17:25:59,578 unitStartEnd.py[line:17] INFO =====tearDown======
+2018-10-23 17:26:29,614 unitStartEnd.py[line:13] INFO =====setUp======
+2018-10-23 17:26:29,618 desired_caps.py[line:37] INFO start app...
+2018-10-23 17:26:41,294 test_login.py[line:42] INFO =====test_login_mmoo=======
+2018-10-23 17:26:41,294 common_fun.py[line:19] INFO ====检查是否升级====
+2018-10-23 17:26:41,830 common_fun.py[line:26] INFO ===点击升级按钮===
+2018-10-23 17:26:42,307 common_fun.py[line:29] INFO ===检查跳过按钮===
+2018-10-23 17:26:42,896 common_fun.py[line:35] INFO 点击跳过按钮
+2018-10-23 17:26:43,296 LoginPage.py[line:27] INFO 输入用户名:自学网2018
+2018-10-23 17:26:49,337 LoginPage.py[line:29] INFO 输入密码zxw2018
+2018-10-23 17:26:58,651 LoginPage.py[line:31] INFO 点击登陆
+2018-10-23 17:26:59,309 LoginPage.py[line:60] INFO 检查登陆后的广告
+2018-10-23 17:27:01,336 LoginPage.py[line:66] INFO 点击登陆后的广告
+2018-10-23 17:27:03,919 LoginPage.py[line:38] INFO 检查是否登陆成功
+2018-10-23 17:27:05,404 LoginPage.py[line:47] INFO 自学网2018--登陆成功
+2018-10-23 17:27:05,404 unitStartEnd.py[line:17] INFO =====tearDown======
+2018-10-23 17:27:10,087 unitStartEnd.py[line:13] INFO =====setUp======
+2018-10-23 17:27:10,090 desired_caps.py[line:37] INFO start app...
+2018-10-23 17:27:21,370 test_login.py[line:21] INFO =====test_login_mmoo=======
+2018-10-23 17:27:21,370 common_fun.py[line:19] INFO ====检查是否升级====
+2018-10-23 17:27:22,076 common_fun.py[line:26] INFO ===点击升级按钮===
+2018-10-23 17:27:22,426 common_fun.py[line:29] INFO ===检查跳过按钮===
+2018-10-23 17:27:22,982 common_fun.py[line:35] INFO 点击跳过按钮
+2018-10-23 17:27:23,348 LoginPage.py[line:27] INFO 输入用户名:mmoo12
+2018-10-23 17:27:28,781 LoginPage.py[line:29] INFO 输入密码q123456
+2018-10-23 17:27:36,716 LoginPage.py[line:31] INFO 点击登陆
+2018-10-23 17:27:37,427 LoginPage.py[line:60] INFO 检查登陆后的广告
+2018-10-23 17:27:39,717 LoginPage.py[line:66] INFO 点击登陆后的广告
+2018-10-23 17:27:41,643 LoginPage.py[line:38] INFO 检查是否登陆成功
+2018-10-23 17:27:42,679 LoginPage.py[line:47] INFO mmoo12--登陆成功
+2018-10-23 17:27:42,680 unitStartEnd.py[line:17] INFO =====tearDown======
+2018-10-23 17:29:18,536 unitStartEnd.py[line:13] INFO =====setUp======
+2018-10-23 17:29:18,538 desired_caps.py[line:37] INFO start app...
+2018-10-23 17:29:26,163 test_login.py[line:33] INFO =====test_login_自学网2017=======
+2018-10-23 17:29:26,163 common_fun.py[line:19] INFO ====检查是否升级====
+2018-10-23 17:29:26,844 common_fun.py[line:26] INFO ===点击升级按钮===
+2018-10-23 17:29:27,375 common_fun.py[line:29] INFO ===检查跳过按钮===
+2018-10-23 17:29:28,022 common_fun.py[line:35] INFO 点击跳过按钮
+2018-10-23 17:29:29,518 LoginPage.py[line:27] INFO 输入用户名:自学网2017
+2018-10-23 17:29:35,600 LoginPage.py[line:29] INFO 输入密码zxw2018
+2018-10-23 17:29:43,178 LoginPage.py[line:31] INFO 点击登陆
+2018-10-23 17:29:43,866 LoginPage.py[line:60] INFO 检查登陆后的广告
+2018-10-23 17:29:52,418 LoginPage.py[line:64] INFO 登陆后的没有广告
+2018-10-23 17:29:52,418 LoginPage.py[line:38] INFO 检查是否登陆成功
+2018-10-23 17:30:00,548 LoginPage.py[line:43] ERROR 登陆失败
+2018-10-23 17:30:00,549 BaseView.py[line:42] INFO get screenshot:C:\Users\Mcen\学习\python\Text_Python\KybtestProject/screenshots/20181023173000_登陆失败.png 
+2018-10-23 17:30:01,192 unitStartEnd.py[line:17] INFO =====tearDown======
+2018-10-23 17:30:05,795 unitStartEnd.py[line:13] INFO =====setUp======
+2018-10-23 17:30:05,798 desired_caps.py[line:37] INFO start app...
+2018-10-23 17:30:16,365 test_login.py[line:21] INFO =====test_login_mmoo=======
+2018-10-23 17:30:16,365 common_fun.py[line:19] INFO ====检查是否升级====
+2018-10-23 17:30:17,044 common_fun.py[line:26] INFO ===点击升级按钮===
+2018-10-23 17:30:17,483 common_fun.py[line:29] INFO ===检查跳过按钮===
+2018-10-23 17:30:18,006 common_fun.py[line:35] INFO 点击跳过按钮
+2018-10-23 17:30:18,370 LoginPage.py[line:27] INFO 输入用户名:mmoo12
+2018-10-23 17:30:23,758 LoginPage.py[line:29] INFO 输入密码q123456
+2018-10-23 17:30:31,149 LoginPage.py[line:31] INFO 点击登陆
+2018-10-23 17:30:32,017 LoginPage.py[line:60] INFO 检查登陆后的广告
+2018-10-23 17:30:34,326 LoginPage.py[line:66] INFO 点击登陆后的广告
+2018-10-23 17:30:37,376 LoginPage.py[line:38] INFO 检查是否登陆成功
+2018-10-23 17:30:38,961 LoginPage.py[line:47] INFO mmoo12--登陆成功
+2018-10-23 17:30:38,962 unitStartEnd.py[line:17] INFO =====tearDown======
